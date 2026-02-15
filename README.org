@@ -1,0 +1,41 @@
+#+TITLE: pedro-dot-help
+#+OPTIONS: toc:nil num:nil
+
+* pedro.help
+
+Yet another blog nobody asked for.
+
+Built with Emacs Org-mode because, apparently, writing HTML like a normal person was too easy.
+
+** Tech Stack
+
+- *Editor*: Emacs (obviously)
+- *Markup*: Org-mode (because Markdown is for quitters)
+- *CSS*: Hand-crafted, doom-one-light inspired (I matched the hex codes from my editor like a normal, well-adjusted person)
+- *Hosting*: AWS S3 (mass scale infrastructure for my mass audience of 3 readers)
+- *CDN*: CloudFront (because those 3 readers deserve low latency)
+- *CI/CD*: GitHub Actions (deploying a static blog with the same ceremony as a Fortune 500 microservice)
+
+** How to Run Locally
+
+#+begin_src sh
+make serve
+#+end_src
+
+Then open http://localhost:8000 and try to contain your excitement.
+
+** How to Build
+
+#+begin_src sh
+make build
+#+end_src
+
+Requires Emacs. If you don't have Emacs installed, this is your sign.
+
+** Philosophy
+
+/"If a blog post is published on the internet and nobody reads it, does it still count as content?"/ — ancient proverb, probably
+
+** License
+
+Do whatever you want. If you're copying my blog setup, you probably need a hug more than a lawyer.

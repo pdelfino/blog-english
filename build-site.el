@@ -1,4 +1,4 @@
-;; build-site.el --- Org-publish configuration for pedro.help -*- lexical-binding: t; -*-
+;; build-site.el --- Org-publish configuration for pedrodelfino.com -*- lexical-binding: t; -*-
 
 (require 'package)
 (setq package-user-dir (expand-file-name "./.packages"))
@@ -39,9 +39,10 @@
              :time-stamp-file nil
 
              :html-head "<link rel=\"stylesheet\" href=\"/style.css\" />
-<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
+<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+<link rel=\"icon\" href=\"/img/favicon.svg\" type=\"image/svg+xml\" />"
 
-             :html-preamble "<a href=\"/\">~/pedro.help</a>
+             :html-preamble "<a href=\"/\">~/pedrodelfino.com</a>
 <a href=\"/posts\">posts</a>
 <a href=\"https://github.com/pdelfino\" target=\"_blank\">github</a>"
 

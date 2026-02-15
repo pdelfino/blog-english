@@ -4,31 +4,50 @@
 
 #+begin_export html
 <h1 class="title">pedrodelfino.com</h1>
-<p class="subtitle">Notes on programming, Emacs, and things I find interesting</p>
 #+end_export
 
-Welcome. This is a small corner of the web where I write about software, tools, and ideas that I find worth sharing.
+I try to [[http://www.paulgraham.com/identity.html][keep my identity small]]. I dislike social media, but I love the social aspect of the web. I also enjoy building things and writing about them. Here you'll find stuff that interested me. If you want to chat about any of it, see the [[*Contact][contact section]] below.
 
-I believe in learning by doing, writing to think, and sharing to connect with like-minded people.
+* Creative Writing
 
-* Posts
+- Events are broken
+- I fell in love
+- I miss you (?)
+- My first painting
 
-/(coming soon)/
+* Technical Content
+
+** Writing
+
+Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
+
+- [[https://nyxt.atlas.engineer/article/nyxt-versus-plugins.org]["Why should I use Nyxt if I can use Vimium?"]] ([[https://news.ycombinator.com/item?id=28632422][HN thread]])
+- [[https://nyxt.atlas.engineer/article/why-building-nyxt-instead-of-an-emacs-package.org][Why isn't Nyxt just an Emacs extension?]]
+- [[https://nyxt.atlas.engineer/article/article-how-can-i-make-emacs-my-web-browser.org][How can I make Emacs my web browser?]]
+- [[https://nyxt.atlas.engineer/article/annotations.org][Nyxt annotations beat pen and paper, believe me]] ([[https://news.ycombinator.com/item?id=30184792][HN thread]])
+- [[https://nyxt.atlas.engineer/article/enable-mode.org][The power of enable-mode: an illustrative example with nosound]]
+- [[https://nyxt.atlas.engineer/article/getting-started-on-nyxt-hacking-1-bookmarklet.org][Getting Started on Nyxt Hacking: Episode 1]]
+- [[https://nyxt.atlas.engineer/article/record-input-field.org][No more filling out repetitive forms in Nyxt!]]
+
+** Videos
+
+- [[https://www.youtube.com/watch?v=ALQOnmbRRBk][Welcome to the Nyxt Academy!]]
+- [[https://www.youtube.com/watch?v=8fmWWgU_gk4][Nyxt annotations beat pen and paper, believe me]]
 
 * About
 
-I'm Pedro Delfino. I write code, surf waves, and tinker with Emacs.
+Pointers:
 
 - [[https://github.com/pdelfino][GitHub]]
-- [[https://www.linkedin.com/in/pedro-delfino][LinkedIn]]
 - [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google Scholar]] (retired from science in 2018, undefeated)
+- [[https://www.linkedin.com/in/pedro-delfino][LinkedIn]] (after being [[https://en.wikipedia.org/wiki/FIRE_movement][FIRE'd]], hope to retire from LinkedIn too)
 - [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
 
 * Contact
 
 #+begin_export html
 <form class="contact-form" action="https://formspree.io/f/mreaqvjn" method="POST">
-  <p>Send me a message. I'll get back to you via email.</p>
+  <p>Some of the best conversations I've had started with a stranger's email.</p>
   <p><input type="text" name="name" placeholder="Your name" required /></p>
   <p><input type="email" name="email" placeholder="Your email" required /></p>
   <p><textarea name="message" placeholder="Your message" rows="5" required></textarea></p>
@@ -49,8 +68,10 @@ I'm Pedro Delfino. I write code, surf waves, and tinker with Emacs.
 </form>
 #+end_export
 
+If I shared a QR code with you, this is where it leads.
+
 #+begin_export html
-<figure style="margin-top: 2rem;">
+<figure style="margin-top: 1rem;">
   <img src="/img/qr-pedrodelfino.png" alt="QR code for pedrodelfino.com" style="max-width: 160px;">
 </figure>
 #+end_export

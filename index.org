@@ -8,6 +8,13 @@
 
 I try to [[http://www.paulgraham.com/identity.html][keep my identity small]]. I dislike social media, but I love the social aspect of the web. I also enjoy building things and writing about them. Here you'll find stuff that interested me. If you want to chat about any of it, see the [[*Contact][contact section]] below.
 
+#+begin_export html
+<figure>
+  <img src="/img/great-wave.jpg" alt="The Great Wave off Kanagawa by Katsushika Hokusai, 1831">
+  <figcaption>Katsushika Hokusai, <em>The Great Wave off Kanagawa</em>, 1831.</figcaption>
+</figure>
+#+end_export
+
 * Creative Writing
 
 - Events are broken

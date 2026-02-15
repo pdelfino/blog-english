@@ -42,9 +42,7 @@
 <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
 <link rel=\"icon\" href=\"/img/favicon.svg\" type=\"image/svg+xml\" />"
 
-             :html-preamble "<a href=\"/\">~/pedrodelfino.com</a>
-<a href=\"/posts\">posts</a>
-<a href=\"https://github.com/pdelfino\" target=\"_blank\">github</a>"
+             :html-preamble "<a href=\"/\">~/pedrodelfino.com</a>"
 
              :html-postamble "<p>Built with Emacs Org-mode</p>")
 

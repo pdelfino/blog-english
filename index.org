@@ -1,9 +1,9 @@
-#+TITLE: pedro.help
+#+TITLE: pedrodelfino.com
 #+LANGUAGE: en
 #+OPTIONS: toc:nil num:nil title:nil html-postamble:nil
 
 #+begin_export html
-<h1 class="title">pedro.help</h1>
+<h1 class="title">pedrodelfino.com</h1>
 <p class="subtitle">Notes on programming, Emacs, and things I find interesting</p>
 #+end_export
 
@@ -20,4 +20,37 @@ I believe in learning by doing, writing to think, and sharing to connect with li
 I'm Pedro Delfino. I write code, surf waves, and tinker with Emacs.
 
 - [[https://github.com/pdelfino][GitHub]]
+- [[https://www.linkedin.com/in/pedro-delfino][LinkedIn]]
+- [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google Scholar]] (retired from science in 2018, undefeated)
 - [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
+
+* Contact
+
+#+begin_export html
+<form class="contact-form" action="https://formspree.io/f/mreaqvjn" method="POST">
+  <p>Send me a message. I'll get back to you via email.</p>
+  <p><input type="text" name="name" placeholder="Your name" required /></p>
+  <p><input type="email" name="email" placeholder="Your email" required /></p>
+  <p><textarea name="message" placeholder="Your message" rows="5" required></textarea></p>
+  <input type="text" name="_gotcha" style="display:none" />
+  <button type="submit">Send</button>
+</form>
+#+end_export
+
+* Newsletter
+
+#+begin_export html
+<form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/delfino"
+      method="post">
+  <p>Subscribe to get new posts delivered to your inbox.</p>
+  <p><input type="email" name="email" placeholder="your@email.com" /></p>
+  <input type="hidden" value="1" name="embed" />
+  <button type="submit">Subscribe</button>
+</form>
+#+end_export
+
+#+begin_export html
+<figure style="margin-top: 2rem;">
+  <img src="/img/qr-pedrodelfino.png" alt="QR code for pedrodelfino.com" style="max-width: 160px;">
+</figure>
+#+end_export

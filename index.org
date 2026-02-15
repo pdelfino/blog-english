@@ -1,0 +1,23 @@
+#+TITLE: pedro.help
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil title:nil html-postamble:nil
+
+#+begin_export html
+<h1 class="title">pedro.help</h1>
+<p class="subtitle">Notes on programming, Emacs, and things I find interesting</p>
+#+end_export
+
+Welcome. This is a small corner of the web where I write about software, tools, and ideas that I find worth sharing.
+
+I believe in learning by doing, writing to think, and sharing to connect with like-minded people.
+
+* Posts
+
+/(coming soon)/
+
+* About
+
+I'm Pedro Delfino. I write code, surf waves, and tinker with Emacs.
+
+- [[https://github.com/pdelfino][GitHub]]
+- [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)

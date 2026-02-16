@@ -44,7 +44,8 @@
 
              :html-preamble "<a href=\"/\">~/pedrodelfino.com</a>"
 
-             :html-postamble "<p>Built with Emacs Org-mode</p>")
+             :html-postamble (format "<p>Built with Emacs Org-mode. Last deploy: %s.</p>"
+                                    (format-time-string "%B %d, %Y")))
 
        (list "blog-static"
              :base-directory "./"

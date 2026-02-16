@@ -17,10 +17,10 @@ I try to [[http://www.paulgraham.com/identity.html][keep my identity small]]. I 
 
 * Creative Writing
 
-- Events are broken
-- I fell in love
-- I miss you (?)
-- My first painting
+- Events are broken (Work In Progress)
+- [[file:posts/i-fell-in-love.org][I fell in love]]
+- [[file:posts/i-miss-you.org][I miss you (?)]]
+- [[file:posts/my-first-painting.org][My first painting]]
 
 * Technical Content
 
@@ -38,7 +38,6 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
 
 ** Videos
 
-- [[https://www.youtube.com/watch?v=ALQOnmbRRBk][Welcome to the Nyxt Academy!]]
 - [[https://www.youtube.com/watch?v=8fmWWgU_gk4][Nyxt annotations beat pen and paper, believe me]]
 
 * About

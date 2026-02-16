@@ -1,7 +1,0 @@
-#+TITLE: Posts
-#+LANGUAGE: en
-#+OPTIONS: toc:nil num:nil
-
-All posts, in reverse chronological order.
-
-/(No posts yet. Check back soon.)/

@@ -1,12 +1,5 @@
 * First Vinyl Painting
 
-#+begin_export html
-<figure>
-  <img src="/img/rembrandt-two-circles.png" alt="Self-Portrait with Two Circles by Rembrandt, c. 1659-60">
-  <figcaption>Rembrandt, <a href="https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles"><em>Self-Portrait with Two Circles</em></a>, c. 1659-60.</figcaption>
-</figure>
-#+end_export
-
 My first vinyl painting was an attempt to mimic Katsushika Hokusai's
 The Great Wave off Kanagawa (1831). However, it was absolutely
 horrible.
@@ -26,15 +19,14 @@ Los Angeles last summer. By the way, thanks for hosting me, Fiedler.
 Man, I really do have great friends!
 
 #+begin_export html
-<figure>
-  <img src="/img/vinyl-surfboard.jpeg" alt="Vinyl painting and surfboard wall decoration">
-</figure>
-#+end_export
-
-#+begin_export html
-<figure>
-  <img src="/img/vinyl-bedroom.jpeg" alt="Bedroom with vinyl and surfboard decoration">
-</figure>
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 250px;">
+    <img src="/img/vinyl-surfboard.jpeg" alt="Vinyl painting and surfboard wall decoration">
+  </figure>
+  <figure style="flex: 1; min-width: 250px;">
+    <img src="/img/vinyl-bedroom.jpeg" alt="Bedroom with vinyl and surfboard decoration">
+  </figure>
+</div>
 #+end_export
 
 Now my room looks badass with both purchased and self-made decorations.
@@ -44,3 +36,10 @@ refused my offer to exchange our works.
 
 She says she is decisive. But I am persistent. As Vito Corleone said,
 "I will make her an offer she cannot refuse." Viva l'Italia.
+
+#+begin_export html
+<figure>
+  <img src="/img/don-corleone-cat.jpg" alt="Don Vito Corleone with his cat, from The Godfather (1972)">
+  <figcaption>Don Vito Corleone and the famous stray cat, <em>The Godfather</em> (1972).</figcaption>
+</figure>
+#+end_export

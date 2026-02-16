@@ -1,9 +1,11 @@
+#+DATE: February 15, 2026
+
 * I Fell in Love
 
 #+begin_export html
 <figure>
   <img src="/img/napoleon-crossing-the-alps.jpg" alt="Napoleon Crossing the Alps by Jacques-Louis David, 1801">
-  <figcaption>Jacques-Louis David, <em>Napoleon Crossing the Alps</em>, 1801.</figcaption>
+  <figcaption>Jacques-Louis David, <a href="https://en.wikipedia.org/wiki/Napoleon_Crossing_the_Alps"><em>Napoleon Crossing the Alps</em></a>, 1801.</figcaption>
 </figure>
 #+end_export
 
@@ -27,7 +29,7 @@ of rice. It’s elegant.
 #+begin_export html
 <figure>
   <img src="/img/the-knight-death-and-the-devil.jpg" alt="The Knight, Death and the Devil by Albrecht Dürer, 1513">
-  <figcaption>Albrecht Dürer, <em>The Knight, Death and the Devil</em>, 1513.</figcaption>
+  <figcaption>Albrecht Dürer, <a href="https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil"><em>The Knight, Death and the Devil</em></a>, 1513.</figcaption>
 </figure>
 #+end_export
 
@@ -42,7 +44,7 @@ badassery.
 #+begin_export html
 <figure>
   <img src="/img/the-laughing-cavalier.jpg" alt="The Laughing Cavalier by Frans Hals, 1624">
-  <figcaption>Frans Hals, <em>The Laughing Cavalier</em>, 1624.</figcaption>
+  <figcaption>Frans Hals, <a href="https://en.wikipedia.org/wiki/Laughing_Cavalier"><em>The Laughing Cavalier</em></a>, 1624.</figcaption>
 </figure>
 #+end_export
 

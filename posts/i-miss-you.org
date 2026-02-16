@@ -1,9 +1,11 @@
+#+DATE: January 31, 2026
+
 * I miss you (?)
 
 #+begin_export html
 <figure>
   <img src="/img/the-lady-of-shalott.jpg" alt="The Lady of Shalott by John William Waterhouse, 1888">
-  <figcaption>John William Waterhouse, <em>The Lady of Shalott</em>, 1888.</figcaption>
+  <figcaption>John William Waterhouse, <a href="https://en.wikipedia.org/wiki/The_Lady_of_Shalott_(painting)"><em>The Lady of Shalott</em></a>, 1888.</figcaption>
 </figure>
 #+end_export
 

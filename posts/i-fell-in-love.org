@@ -70,6 +70,12 @@ Also, a shark. Sharks are badass. If sharks impersonated humans, they
 would wear this kind of jacket, of course. Italian brand, obviously.
 Bravo!
 
+#+begin_export html
+<figure>
+  <img src="/img/alpinestars-logo.svg" alt="Alpinestars logo" style="max-width: 200px;">
+</figure>
+#+end_export
+
 Eleventh, the jacket is from 1995. It's perfect, about my age. If it
 lasted three decades, it will last another nine. Hopefully, me too.
 

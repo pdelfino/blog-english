@@ -1,28 +1,46 @@
 * First Vinyl Painting
 
-My first vinyl painting was an attempt to mimic Katsushika Hokusai,
-The Great Wave off Kanagawa, 1831. However, it was freaking horrible.
+#+begin_export html
+<figure>
+  <img src="/img/rembrandt-two-circles.png" alt="Self-Portrait with Two Circles by Rembrandt, c. 1659-60">
+  <figcaption>Rembrandt, <a href="https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles"><em>Self-Portrait with Two Circles</em></a>, c. 1659-60.</figcaption>
+</figure>
+#+end_export
 
-Thankfully, unlike a normal canvas, the vynil is a bless because you
-can flip it and have a second try. Also, Lucas kindly went to the
-workshop with me. Without him, my work would have been the worse.
-Thanks for coming, brou!
+My first vinyl painting was an attempt to mimic Katsushika Hokusai's
+The Great Wave off Kanagawa (1831). However, it was absolutely
+horrible.
 
-Even though my first craft was a _fake wave_ (tun tuz), the second
-became hipster geometry. And it still vibed with my bedroom
-decoration. 
+Thankfully, unlike a normal canvas, vinyl is a blessing because you
+can flip it over and try again. Lucas kindly went to the workshop with
+me. Without him, my work would have been even worse. Thanks for coming,
+bro!
 
-Since I love (and miss) surFew weeks ago, I had bought a nice surf
-board for decoration. A good trigger of memories of an awesome trip to
-Los Angeles last summer. Btw, thanks for hosting me Fiedler. Man, I do
-have great friends!
+Even though my first attempt was a "fake wave" (ba-dumtss), the second
+turned into hipster geometry. And it still vibed with my bedroom
+decoration.
 
-Now, my room looks badass with purchased and self-made decoration.
-Actually, I tried swapping my craft with a cutie who also tried a
+Since I love (and miss) surfing, a few weeks ago I bought a nice surfboard
+for decoration, a good trigger for memories of an awesome trip to
+Los Angeles last summer. By the way, thanks for hosting me, Fiedler.
+Man, I really do have great friends!
+
+#+begin_export html
+<figure>
+  <img src="/img/vinyl-surfboard.jpeg" alt="Vinyl painting and surfboard wall decoration">
+</figure>
+#+end_export
+
+#+begin_export html
+<figure>
+  <img src="/img/vinyl-bedroom.jpeg" alt="Bedroom with vinyl and surfboard decoration">
+</figure>
+#+end_export
+
+Now my room looks badass with both purchased and self-made decorations.
+I actually tried swapping my piece with a cutie who had also painted a
 wave. Her wave was formidable, just like her eyes. Unfortunately, she
 refused my offer to exchange our works.
 
-She says she is decisive. But, I am persistent. Vito Corleone said...
-I will make her an offer she cannot refuse. _Viva L'Italia_. 
-
-
+She says she is decisive. But I am persistent. As Vito Corleone said,
+"I will make her an offer she cannot refuse." Viva l'Italia.

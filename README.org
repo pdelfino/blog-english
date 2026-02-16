@@ -34,7 +34,7 @@ Requires Emacs. If you don't have Emacs installed, this is your sign.
 
 ** Philosophy
 
-/"If a blog post is published on the internet and nobody reads it, does it still count as content?"/ — ancient proverb, probably
+/"If a blog post is published on the internet and nobody reads it, does it still count as content?"/ - ancient proverb, probably
 
 ** License
 

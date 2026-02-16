@@ -6,7 +6,7 @@
 <h1 class="title">pedrodelfino.com</h1>
 #+end_export
 
-I try to [[http://www.paulgraham.com/identity.html][keep my identity small]]. I dislike social media, but I love the social aspect of the web. I also enjoy building things and writing about them. Here you'll find stuff that interested me. If you want to chat about any of it, see the [[*Contact][contact section]] below.
+I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I dislike social media, but I love the social aspect of the web. I also enjoy building things and writing about them. Here you'll find stuff that interested me. If you want to chat about any of it, see the [[*Contact][contact section]] below.
 
 #+begin_export html
 <figure>

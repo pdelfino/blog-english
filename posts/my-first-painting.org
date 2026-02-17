@@ -3,6 +3,10 @@
 * My First Painting
 
 #+begin_export html
+<p class="date">August 14, 2025</p>
+#+end_export
+
+#+begin_export html
 <figure>
   <img src="/img/my-first-painting.jpeg" alt="My first painting: a dandelion against a sunset over still water">
 </figure>

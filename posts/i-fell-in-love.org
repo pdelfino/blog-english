@@ -3,6 +3,10 @@
 * I Fell in Love
 
 #+begin_export html
+<p class="date">February 15, 2026</p>
+#+end_export
+
+#+begin_export html
 <figure>
   <img src="/img/napoleon-crossing-the-alps.jpg" alt="Napoleon Crossing the Alps by Jacques-Louis David, 1801">
   <figcaption>Jacques-Louis David, <a href="https://en.wikipedia.org/wiki/Napoleon_Crossing_the_Alps"><em>Napoleon Crossing the Alps</em></a>, 1801.</figcaption>

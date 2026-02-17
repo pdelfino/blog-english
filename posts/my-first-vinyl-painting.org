@@ -7,7 +7,7 @@
 #+end_export
 
 My first vinyl painting was an attempt to mimic Katsushika Hokusai's
-The Great Wave off Kanagawa (1831). However, it was absolutely
+[[/][The Great Wave off Kanagawa]] (1831). However, it was absolutely
 horrible.
 
 Thankfully, unlike a normal canvas, vinyl is a blessing because you

@@ -31,7 +31,7 @@
              :publishing-directory "./public/"
              :publishing-function 'org-html-publish-to-html
              :recursive t
-             :exclude "drafts\\|\\.packages\\|public"
+             :exclude "drafts\\|\\.packages\\|public\\|i-miss-you"
              :with-author nil
              :with-creator nil
              :with-toc nil

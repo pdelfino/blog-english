@@ -15,14 +15,20 @@ I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I 
 </figure>
 #+end_export
 
+* I ❤️ lists
+
+- books (Work In Progress)
+- surfed (WIP)
+- sailed (WIP)
+- AI knowledge base (WIP)
+
 * Creative Writing
 
 Reverse chronological order:
 
-- Events are broken (Work In Progress)
+- Meeting people is hard (WIP)
 - [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]
 - [[file:posts/i-fell-in-love.org][I fell in love]]
-- [[file:posts/i-miss-you.org][I miss you (?)]]
 - [[file:posts/my-first-painting.org][My first painting]]
 
 * Technical Content

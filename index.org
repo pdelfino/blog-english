@@ -15,11 +15,12 @@ I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I 
 </figure>
 #+end_export
 
-* I ❤️ lists
+* I ❤️  Lists
 
 - books (Work In Progress)
 - surfed (WIP)
 - sailed (WIP)
+- dived (WIP)
 - AI knowledge base (WIP)
 
 * Creative Writing

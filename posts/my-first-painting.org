@@ -1,4 +1,7 @@
 #+DATE: August 14, 2025
+#+HTML_HEAD: <meta property="og:title" content="My First Painting" />
+#+HTML_HEAD: <meta property="og:description" content="Neither Prince nor Littles. Life imitates art. Art imitates life." />
+#+HTML_HEAD: <meta property="og:image" content="https://pedrodelfino.com/img/my-first-painting.jpeg" />
 
 * My First Painting
 
@@ -9,6 +12,7 @@
 #+begin_export html
 <figure>
   <img src="/img/my-first-painting.jpeg" alt="My first painting: a dandelion against a sunset over still water">
+  <figcaption>Pedro Delfino, <em>Neither Prince nor Littles</em>, 2025.</figcaption>
 </figure>
 #+end_export
 

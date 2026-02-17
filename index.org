@@ -1,6 +1,8 @@
 #+TITLE: pedrodelfino.com
 #+LANGUAGE: en
 #+OPTIONS: toc:nil num:nil title:nil html-postamble:nil
+#+HTML_HEAD: <meta property="og:title" content="pedrodelfino.com" />
+#+HTML_HEAD: <meta property="og:description" content="I try to keep my identity small. I dislike social media, but I love the social aspect of the web." />
 
 #+begin_export html
 <h1 class="title">pedrodelfino.com</h1>
@@ -11,7 +13,7 @@ I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I 
 #+begin_export html
 <figure>
   <img src="/img/great-wave.jpg" alt="The Great Wave off Kanagawa by Katsushika Hokusai, 1831">
-  <figcaption>Katsushika Hokusai, <em>The Great Wave off Kanagawa</em>, 1831.</figcaption>
+  <figcaption>Katsushika Hokusai, <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><em>The Great Wave off Kanagawa</em></a>, 1831.</figcaption>
 </figure>
 #+end_export
 

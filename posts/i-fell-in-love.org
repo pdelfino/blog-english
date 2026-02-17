@@ -1,4 +1,7 @@
 #+DATE: February 15, 2026
+#+HTML_HEAD: <meta property="og:title" content="I Fell in Love" />
+#+HTML_HEAD: <meta property="og:description" content="Not with a girl. Not yet. I fell in love with my new jacket: a 1995 Alpinestars black-and-blue leather jacket." />
+#+HTML_HEAD: <meta property="og:image" content="https://pedrodelfino.com/img/napoleon-crossing-the-alps.jpg" />
 
 * I Fell in Love
 

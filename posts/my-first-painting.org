@@ -1,7 +1,7 @@
 #+DATE: August 14, 2025
-#+HTML_HEAD: <meta property="og:title" content="My First Painting" />
-#+HTML_HEAD: <meta property="og:description" content="Neither Prince nor Littles. Life imitates art. Art imitates life." />
-#+HTML_HEAD: <meta property="og:image" content="https://pedrodelfino.com/img/my-first-painting.jpeg" />
+#+HTML_HEAD_EXTRA: <meta property="og:title" content="My First Painting" />
+#+HTML_HEAD_EXTRA: <meta property="og:description" content="Neither Prince nor Littles. Life imitates art. Art imitates life." />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/my-first-painting.jpeg" />
 
 * My First Painting
 

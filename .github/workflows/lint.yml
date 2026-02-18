@@ -19,3 +19,28 @@ jobs:
             exit 1
           fi
           echo "No em dashes found."
+
+  check-og-tags:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for required OG meta tags in .org files
+        run: |
+          failed=0
+          for file in $(find . -name '*.org' \
+            ! -name 'README.org' \
+            ! -path './drafts/*' \
+            ! -path '*/i-miss-you.org'); do
+            for tag in og:title og:description og:image; do
+              if ! grep -q "$tag" "$file"; then
+                echo "::error file=${file}::Missing ${tag} in ${file}"
+                failed=1
+              fi
+            done
+          done
+          if [ "$failed" -eq 1 ]; then
+            echo "::error::Some .org files are missing required OG meta tags."
+            exit 1
+          fi
+          echo "All required OG tags present."

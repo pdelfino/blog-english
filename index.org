@@ -3,6 +3,7 @@
 #+OPTIONS: toc:nil num:nil title:nil html-postamble:nil
 #+HTML_HEAD_EXTRA: <meta property="og:title" content="pedrodelfino.com" />
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="I try to keep my identity small. I dislike social media, but I love the social aspect of the web." />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/great-wave.jpg" />
 
 #+begin_export html
 <h1 class="title">pedrodelfino.com</h1>

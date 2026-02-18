@@ -3,7 +3,7 @@
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="My first vinyl painting was an attempt to mimic Katsushika Hokusai's The Great Wave off Kanagawa." />
 #+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/vinyl-surfboard.jpeg" />
 
-* First Vinyl Painting
+* My First Vinyl Painting
 
 #+begin_export html
 <p class="date">February 16, 2026</p>

@@ -9,7 +9,10 @@
 <h1 class="title">pedrodelfino.com</h1>
 #+end_export
 
-I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I dislike social media, but I love the social aspect of the web. I also enjoy building things and writing about them. Here you'll find stuff that interested me. If you want to chat about any of it, see the [[*Contact][contact section]] below.
+I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I dislike social media, but I love
+the social aspect of the web. I also enjoy building things and writing
+about them. Here you'll find stuff that interested me. If you want to
+chat about any of it, see the [[*Contact][contact section]] below.
 
 #+begin_export html
 <figure>
@@ -26,11 +29,16 @@ I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I 
 - dived (WIP)
 - AI knowledge base (WIP)
 
+* Business thesis
+
+- Meeting people is hard (WIP)
+- Events feel broken (WIP)
+- The event I would like to buy (WIP)
+
 * Creative Writing
 
 Reverse chronological order:
 
-- Meeting people is hard (WIP)
 - [[file:posts/my-first-vinyl-painting.org][My first vinyl painting]]
 - [[file:posts/i-fell-in-love.org][I fell in love]]
 - [[file:posts/my-first-painting.org][My first painting]]
@@ -58,9 +66,13 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
 Pointers:
 
 - [[https://github.com/pdelfino][GitHub]]
-- [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google Scholar]] (retired from science in 2018, undefeated)
-- [[https://www.linkedin.com/in/pedro-delfino][LinkedIn]] (after being [[https://en.wikipedia.org/wiki/FIRE_movement][FIRE'd]], hope to retire from LinkedIn too)
-- [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
+- [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google
+  Scholar]] (retired from science in 2018, undefeated)
+- [[https://www.linkedin.com/in/pedro-delfino][LinkedIn]] (after being
+  [[https://en.wikipedia.org/wiki/FIRE_movement][FIRE'd]], hope to
+  retire from LinkedIn too)
+- [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in
+  Portuguese)
 
 * Contact
 

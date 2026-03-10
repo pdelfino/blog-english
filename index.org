@@ -28,6 +28,7 @@ chat about any of it, see the [[*Contact][contact section]] below.
 - sailed (WIP)
 - dived (WIP)
 - AI knowledge base (WIP)
+- celebrities I met (should I really write this haha?)
 
 * Writing
 
@@ -46,9 +47,10 @@ Reverse chronological order:
 - [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]
 - [[file:posts/i-fell-in-love.org][I fell in love]]
 - [[file:posts/my-first-painting.org][First painting]]
+- The day I met Warren Buffett in person (WIP)
 
 ** Productivity
-
+- Vibe coding and aphoristic books (WIP)
 - A mouseless life (WIP)
 - My computer productivity stack: macOS, keyboard, Brave & mouse (WIP)
 - Sleep hygiene hack & Wolverine (WIP)

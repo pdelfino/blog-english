@@ -22,6 +22,20 @@
       org-html-doctype "html5"
       org-html-html5-fancy t)
 
+;; Automatically append " | pedrodelfino.com" to every page's <title>,
+;; except the homepage which already has "pedrodelfino.com" as its title.
+(defun my/append-site-name-to-title (output _backend _info)
+  (if (string-match "<title>\\(.*?\\)</title>" output)
+      (let ((title (match-string 1 output)))
+        (if (string= title "pedrodelfino.com")
+            output
+          (replace-match (format "<title>%s | pedrodelfino.com</title>" title)
+                         t t output)))
+    output))
+
+(add-to-list 'org-export-filter-final-output-functions
+             #'my/append-site-name-to-title)
+
 ;; Define the publishing project
 (setq org-publish-project-alist
       (list

@@ -1,3 +1,4 @@
+#+TITLE: My First Painting
 #+DATE: August 14, 2025
 #+HTML_HEAD_EXTRA: <meta property="og:title" content="My First Painting" />
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="Neither Prince nor Littles. Life imitates art. Art imitates life." />

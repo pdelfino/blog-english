@@ -29,23 +29,56 @@ chat about any of it, see the [[*Contact][contact section]] below.
 - dived (WIP)
 - AI knowledge base (WIP)
 
-* Business thesis
+* Writing
+
+** Business Thesis
 
 - Meeting people is hard (WIP)
 - Events feel broken for me (WIP)
-- Festa Fit: The event I would like to go (WIP)
+- _Festa Fit_: The event I would like to go to (WIP)
 
-* Creative Writing
+** Creative
 
 Reverse chronological order:
 
-- [[file:posts/my-first-vinyl-painting.org][My first vinyl painting]]
+- First collage (WIP)
+- First jewelry I ever bought (WIP)
+- [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]
 - [[file:posts/i-fell-in-love.org][I fell in love]]
-- [[file:posts/my-first-painting.org][My first painting]]
+- [[file:posts/my-first-painting.org][First painting]]
 
-* Technical Content
+** Productivity
 
-** Writing
+- A mouseless life (WIP)
+- My computer productivity stack: macOS, keyboard, Brave & mouse (WIP)
+- Sleep hygiene hack & Wolverine (WIP)
+
+** Cooking
+
+- _Sous Vide_ Way of Life (WIP)
+- Handcrafted Kombucha for the Win (WIP)
+- Pumpoff & Banoff (WIP)
+- Taramousse (WIP)
+ 
+** Fitness & Wellness
+
+- A tailor-made health dashboard for my OCD (WIP)
+- Tracking all my calorie intake for 1 week (WIP)
+- Spinning is good for the heart (WIP)
+
+** Finance
+
+- Coding a _Mister Money Mustache_ agent to review my expenses (WIP)
+
+** Gardening
+
+- Banzai, Bonsai! (WIP)
+
+** Controversial
+
+- One Year Without Porn: My Personal Experience and a Public Conversation (WIP)
+    
+** Technical
 
 Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
 
@@ -57,13 +90,12 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
 - [[https://nyxt.atlas.engineer/article/getting-started-on-nyxt-hacking-1-bookmarklet.org][Getting Started on Nyxt Hacking: Episode 1]]
 - [[https://nyxt.atlas.engineer/article/record-input-field.org][No more filling out repetitive forms in Nyxt!]]
 
-** Videos
+*** Videos
 
 - [[https://www.youtube.com/watch?v=8fmWWgU_gk4][Nyxt annotations beat pen and paper, believe me]]
 
-* About
+* Pointers:
 
-Pointers:
 
 - [[https://github.com/pdelfino][GitHub]]
 - [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google
@@ -71,8 +103,10 @@ Pointers:
 - [[https://www.linkedin.com/in/pedro-delfino][LinkedIn]] (after being
   [[https://en.wikipedia.org/wiki/FIRE_movement][FIRE'd]], hope to
   retire from LinkedIn too)
-- [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in
-  Portuguese)
+- [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
+- [[https://strava.app.link/Duc7qsoNo1b][Strava]] (my most serious social media account)
+- apparently, I _should have_ an Instagram for single life reasons. I
+  will keep rebelling for now
 
 * Contact
 

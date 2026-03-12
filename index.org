@@ -58,7 +58,7 @@ Reverse chronological order:
 ** Cooking
 
 - _Sous Vide_ Way of Life (WIP)
-- Handcrafted Kombucha for the Win (WIP)
+- $brew kombucha (WIP)
 - Pumpoff & Banoff (WIP)
 - Taramousse (WIP)
  

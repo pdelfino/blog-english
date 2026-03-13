@@ -1,8 +1,8 @@
 # pedrodelfino.com
 
-![A Lady Writing](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg/960px-Johannes_Vermeer_-_A_Lady_Writing_-_Google_Art_Project.jpg)
+![The Poor Poet](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg/960px-Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg)
 
-*"A Lady Writing" (c. 1665) by Johannes Vermeer — [Wikipedia](https://en.wikipedia.org/wiki/A_Lady_Writing)*
+*"The Poor Poet" (1839) by Carl Spitzweg — [Wikipedia](https://en.wikipedia.org/wiki/The_Poor_Poet)*
 
 A personal blog built entirely with Emacs Org-mode -- because writing HTML by hand was too easy.
 

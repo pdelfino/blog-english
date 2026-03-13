@@ -1,6 +1,6 @@
 # pedrodelfino.com
 
-![The Poor Poet](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg/960px-Carl_Spitzweg_-_Der_arme_Poet_%28Neue_Pinakothek%29.jpg)
+![The Poor Poet](./painting.jpg)
 
 *"The Poor Poet" (1839) by Carl Spitzweg — [Wikipedia](https://en.wikipedia.org/wiki/The_Poor_Poet)*
 

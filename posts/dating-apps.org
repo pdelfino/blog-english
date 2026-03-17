@@ -2,7 +2,7 @@
 #+DATE: March 16, 2026
 #+HTML_HEAD_EXTRA: <meta property="og:title" content="Why Don't You Use Dating Apps?" />
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="Dating apps kill the romance. I'd rather have a golden wedding anniversary with a real story." />
-#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/the-peasant-wedding.jpg" />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/the-kiss-klimt.jpg" />
 
 * Why Don't You Use Dating Apps?
 
@@ -12,8 +12,8 @@
 
 #+begin_export html
 <figure>
-  <img src="/img/the-peasant-wedding.jpg" alt="The Peasant Wedding by Pieter Bruegel the Elder, c. 1567">
-  <figcaption>Pieter Bruegel the Elder, <a href="https://en.wikipedia.org/wiki/The_Peasant_Wedding"><em>The Peasant Wedding</em></a>, c. 1567.</figcaption>
+  <img src="/img/the-kiss-klimt.jpg" alt="The Kiss by Gustav Klimt, c. 1907–1908">
+  <figcaption>Gustav Klimt, <a href="https://en.wikipedia.org/wiki/The_Kiss_(Klimt)"><em>The Kiss</em></a>, c. 1907–1908.</figcaption>
 </figure>
 #+end_export
 

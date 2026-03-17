@@ -42,6 +42,7 @@ chat about any of it, see the [[*Contact][contact section]] below.
 
 Reverse chronological order:
 
+- [[file:posts/dating-apps.org][Why don't you use dating apps?]]
 - First collage (WIP)
 - First jewelry I ever bought (WIP)
 - [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]

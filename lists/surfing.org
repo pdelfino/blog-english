@@ -1,0 +1,51 @@
+#+TITLE: Places I've Surfed
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">From 2021 to present</p>
+#+end_export
+
+- Pontal de Maracaípe, Pernambuco, Brazil
+- Praia de Intermares (Macaco), João Pessoa/Cabedelo, Paraíba, Brazil
+- Praia do Madeiro, Pipa, Tibau do Sul, Rio Grande do Norte, Brazil
+- Praia de Tourinhos, Rio Grande do Norte, Brazil
+- Praia do Amor (dos Afogados), Pipa, Tibau do Sul, Rio Grande do Norte, Brazil
+- Secret, Cacimbinhas, Pipa, Tibau do Sul, Rio Grande do Norte, Brazil
+- Canoa Quebrada, Ceará, Brazil
+- Praia da Leste, Fortaleza, Ceará, Brazil
+- Praia de Porto das Dunas (Beach Park), Fortaleza/Aquiraz, Ceará, Brazil
+- Praia do Futuro, Fortaleza, Ceará, Brazil
+- Titanzinho, Fortaleza, Ceará, Brazil
+- Prainha, Fortaleza, Ceará, Brazil
+- Pontão do Iguape, Fortaleza/Iguape, Ceará, Brazil
+- Ronco, Paracuru, Ceará, Brazil
+- Curralzinho, Paracuru, Ceará, Brazil
+- Taíba, Ceará, Brazil
+- Lagoinha, Ceará, Brazil
+- Praia Central, Jericoacoara, Ceará, Brazil
+- Praia do Arrombado, Luís Correia, Piauí, Brazil
+- Praia do Caolho, São Luís, Maranhão, Brazil
+- Praia do Atalaia, Salinópolis, Pará, Brazil
+- Praia Mole, Florianópolis, Santa Catarina, Brazil
+- Praia do Matadeiro, Florianópolis, Santa Catarina, Brazil
+- Praia do Joaquina, Florianópolis, Santa Catarina, Brazil
+- Praia do Francês, Marechal Deodoro, Alagoas, Brazil
+- Praia de Jaguaribe, Salvador, Bahia, Brazil
+- Praia de Ipitanga, Lauro de Freitas, Bahia, Brazil
+- Praia de Piatã, Salvador, Bahia, Brazil
+- Praia do Buraquinho, Lauro de Freitas, Bahia, Brazil
+- Praia de Stella Maris, Salvador, Bahia, Brazil
+- Praia do Surf, Camaçari, Bahia, Brazil
+- Praia da Concha, Itacaré, Bahia, Brazil
+- Praia da Tiririca, Itacaré, Bahia, Brazil
+- Praia de Itacarezinho, Itacaré, Bahia, Brazil
+- Praia da Engenhoca, Itacaré, Bahia, Brazil
+- Praia de Jeribucaçu, Itacaré, Bahia, Brazil
+- Prainha, Itacaré, Bahia, Brazil
+- Praia da Cueira, Boipeba, Cairu, Bahia, Brazil
+- Praia do Sul, Ilhéus, Bahia, Brazil
+- Praia de Taipus de Fora, Península de Maraú, Bahia, Brazil
+- Praia de Cassange, Península de Maraú, Bahia, Brazil
+- Praia de Algodões, Península de Maraú, Bahia, Brazil
+- Praia de Serra Grande, Uruçuca, Bahia, Brazil

@@ -24,8 +24,8 @@ chat about any of it, see the [[*Contact][contact section]] below.
 * I ❤️  Lists
 
 - read (Work In Progress)
-- surfed (WIP)
-- sailed (WIP)
+- [[file:lists/surfing.org][surfed]]
+- [[file:lists/sailing.org][sailed]]
 - dived (WIP)
 - AI knowledge base (WIP)
 - celebrities I met (should I really write this haha?)

@@ -1,0 +1,19 @@
+#+TITLE: Places I've Sailed (Kite Surfing)
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">From 2020 to present</p>
+#+end_export
+
+- Pontal de Maracaípe, Pernambuco, Brazil
+- Cumbuco, Ceará, Brazil
+- Lagoa do Cauípe, Ceará, Brazil
+- Ilha de Itamaracá, Pernambuco, Brazil
+- Praia de Intermares, Paraíba, Brazil
+- Barra do Cunhaú, Rio Grande do Norte, Brazil
+- Praia de Santo Cristo, São Miguel do Gostoso, Rio Grande do Norte, Brazil
+- Praia de Carnaubinhas, Rio Grande do Norte, Brazil
+- Fortim, Ceará, Brazil
+- Jericoacoara/Preá, Ceará, Brazil
+- Barra Grande, Piauí, Brazil

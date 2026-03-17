@@ -1,5 +1,6 @@
 #+TITLE: I am not a womanizer, I promise
 #+DATE: March 16, 2026
+#+OPTIONS: ^:nil
 #+HTML_HEAD_EXTRA: <meta property="og:title" content="I am not a womanizer, I promise" />
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="The original title was My first Collage. But the current one is way catchier." />
 #+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/collage-full.jpeg" />
@@ -10,7 +11,7 @@
 <p class="date">March 16, 2026</p>
 #+end_export
 
-The original title for this post was actually _My first Collage_.
+The original title for this post was actually /My first Collage/.
 However, the current one is way catchier. It also reflects better the
 interaction that happened during the "art class" I went to a few days
 ago. Without further ado and no sugarcoating it, here it goes:
@@ -30,14 +31,14 @@ Ok.
 Although I used a similar technique of Kafka on Metamorphosis (since I
 started with the climax (damn, this is getting so unintentionally
 sexual)), let's go back in time to humanize myself. My therapist said
-that I _need_ to humanize myself more.
+that I /need/ to humanize myself more.
 
 The exercise started with a bunch of random magazines, paper, pens,
 and utensils to paint. I thought it would be cool to just use images from the magazines.
 
-Thankfully, no Playboy magazine was available (although vintage storages in Montreal love them, don't ask me why since supposedly they sell 2nd hand chic clothes... _Sin City_...). But, all other magazines had a pattern. A pattern my single dude (_célibataire_ in French, fun word, I know) easily notices: pretty women. So, I decided to craft my collage about that.
+Thankfully, no Playboy magazine was available (although vintage storages in Montreal love them, don't ask me why since supposedly they sell 2nd hand chic clothes... /Sin City/...). But, all other magazines had a pattern. A pattern my single dude (/célibataire/ in French, fun word, I know) easily notices: pretty women. So, I decided to craft my collage about that.
 
-In my defense, I started like this. On purpose, yes. After all, what I want is a _wife_. See, I am not a womanizer.
+In my defense, I started like this. On purpose, yes. After all, what I want is a /wife/. See, I am not a womanizer.
 
 #+begin_export html
 <figure>
@@ -46,7 +47,7 @@ In my defense, I started like this. On purpose, yes. After all, what I want is a
 </figure>
 #+end_export
 
-More meaningful, this is how it ends. Yes, the only elderly woman on my collage haha. I am not DiCaprio and I don't apply _DiCaprio's rule_ (although my stats seem to converge to his stats lately haha)! Why did I pick this lady and put her on top?
+More meaningful, this is how it ends. Yes, the only elderly woman on my collage haha. I am not DiCaprio and I don't apply /DiCaprio's rule/ (although my stats seem to converge to his stats lately haha)! Why did I pick this lady and put her on top?
 
 #+begin_export html
 <figure>
@@ -55,12 +56,12 @@ More meaningful, this is how it ends. Yes, the only elderly woman on my collage 
 </figure>
 #+end_export
 
-Because she symbolizes _the Queen_ I want in my life. And that I want to grow old with her. Finally, she is on top of *all the other ones*. Another cool detail about my craft is the fact that I designed it to be overflowing of girls. Just like in my mind. Not really in my life. Even less in my heart.
+Because she symbolizes /the Queen/ I want in my life. And that I want to grow old with her. Finally, she is on top of *all the other ones*. Another cool detail about my craft is the fact that I designed it to be overflowing of girls. Just like in my mind. Not really in my life. Even less in my heart.
 
 A detail noticed by my teacher was my emphasis on female lower body
 haha. She did not pick elegant words, but I will keep things here
 classy. Yeah, glutes & "coxudinha" are my Achilles heels. I am
-Brazilian, after all. And I _back-end_ (_back_...._end_....) software
+Brazilian, after all. And I /back-end/ (/back/..../end/....) software
 engineer (ba dum tss!)!
 
 #+begin_export html

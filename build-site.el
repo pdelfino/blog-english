@@ -56,8 +56,7 @@
 <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
 <link rel=\"icon\" href=\"/img/favicon.svg\" type=\"image/svg+xml\" />
 <meta property=\"og:site_name\" content=\"pedrodelfino.com\" />
-<meta property=\"og:type\" content=\"website\" />
-<meta property=\"og:image\" content=\"https://pedrodelfino.com/img/great-wave.jpg\" />"
+<meta property=\"og:type\" content=\"website\" />"
 
              :html-preamble "<a href=\"/\">~/pedrodelfino.com</a>"
 

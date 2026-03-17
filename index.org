@@ -36,12 +36,12 @@ chat about any of it, see the [[*Contact][contact section]] below.
 
 - Meeting people is hard (WIP)
 - Events feel broken for me (WIP)
-- _Festa Fit_: The event I would like to go to (WIP)
+- /Festa Fit/: The event I would like to go to (WIP)
 
 ** Potpourri
 
 Yeah, the section name suggests right: I am learning French ;) Btw,
-_miscellaneous_ actually comes directly from Latin. Anyways, reverse
+/miscellaneous/ actually comes directly from Latin. Anyways, reverse
 chronological order:
 
 - [[file:posts/dating-apps.org][Why don't you use dating apps?]]
@@ -60,7 +60,7 @@ chronological order:
 
 ** Cooking
 
-- _Sous Vide_ Way of Life (WIP)
+- /Sous Vide/ Way of Life (WIP)
 - $brew kombucha (WIP)
 - Pumpoff & Banoff (WIP)
 - Taramousse (WIP)
@@ -73,7 +73,7 @@ chronological order:
 
 ** Finance
 
-- Coding a _Mister Money Mustache_ agent to review my expenses (WIP)
+- Coding a /Mister Money Mustache/ agent to review my expenses (WIP)
 
 ** Gardening
 
@@ -110,7 +110,7 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
   retire from LinkedIn too)
 - [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
 - [[https://strava.app.link/Duc7qsoNo1b][Strava]] (my most serious social media account)
-- apparently, I _should have_ an Instagram for single life reasons. I
+- apparently, I /should have/ an Instagram for single life reasons. I
   will keep rebelling for now
 
 * Contact

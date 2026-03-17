@@ -38,9 +38,11 @@ chat about any of it, see the [[*Contact][contact section]] below.
 - Events feel broken for me (WIP)
 - _Festa Fit_: The event I would like to go to (WIP)
 
-** Creative
+** Potpourri
 
-Reverse chronological order:
+Yeah, the section name suggests right: I am learning French ;) Btw,
+_miscellaneous_ actually comes directly from Latin. Anyways, reverse
+chronological order:
 
 - [[file:posts/dating-apps.org][Why don't you use dating apps?]]
 - First collage (WIP)

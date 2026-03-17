@@ -47,7 +47,7 @@ In my defense, I started like this. On purpose, yes. After all, what I want is a
 </figure>
 #+end_export
 
-More meaningful, this is how it ends. Yes, the only elderly woman on my collage haha. I am not DiCaprio and I don't apply /DiCaprio's rule/ (although my stats seem to converge to his stats lately haha)! Why did I pick this lady and put her on top?
+More meaningful, this is how it ends. Yes, the only elderly woman on my collage haha. I am not DiCaprio and I don't apply [[https://en.wikipedia.org/wiki/Leonardo_DiCaprio#Personal_life][/DiCaprio's rule/]] (although my stats seem to converge to his stats lately haha)! Why did I pick this lady and put her on top?
 
 #+begin_export html
 <figure>

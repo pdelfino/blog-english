@@ -1,26 +1,51 @@
-* Why don't you use dating apps?
+#+TITLE: Why Don't You Use Dating Apps?
+#+DATE: March 16, 2026
+#+HTML_HEAD_EXTRA: <meta property="og:title" content="Why Don't You Use Dating Apps?" />
+#+HTML_HEAD_EXTRA: <meta property="og:description" content="Dating apps kill the romance. I'd rather have a golden wedding anniversary with a real story." />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/the-peasant-wedding.jpg" />
+
+* Why Don't You Use Dating Apps?
+
+#+begin_export html
+<p class="date">March 16, 2026</p>
+#+end_export
+
+#+begin_export html
+<figure>
+  <img src="/img/the-peasant-wedding.jpg" alt="The Peasant Wedding by Pieter Bruegel the Elder, c. 1567">
+  <figcaption>Pieter Bruegel the Elder, <a href="https://en.wikipedia.org/wiki/The_Peasant_Wedding"><em>The Peasant Wedding</em></a>, c. 1567.</figcaption>
+</figure>
+#+end_export
 
 Well, several reasons. The coolest one is simple. I am a romantic.
 Dating apps kill the romance!
 
-
-Just imagine the conversation on the *golden wedding anniversary* with
-people asking how that lovely greyed couple met.
+Just imagine the conversation at the *golden wedding anniversary* with
+people asking how that lovely grey-haired couple met.
 
 - How did you guys meet? School?
-- No
+- No.
 - Mutual friends?
-- No
+- No.
 - Work?
-- No
+- No.
 - Neighbors?
-- No
-- Gym? Night club? Bar? Dance/painting class kind of thing? Party?
-- No
-- Randomly in street? Bus? Subway?
+- No.
+- Gym? Night club? Bar? Dance class? Painting class? Party?
+- No.
+- Randomly on the street? Bus? Subway?
 - No. We met through a digital platform that behaves like digital
-  cocaine playing dopamine triggers while humans try to mate (insert
-  strike trough) find romantic partners
+  cocaine playing dopamine triggers while humans try to @@html:<s>@@mate@@html:</s>@@ find romantic partners.
 
-It sucks. I know, I agree, the golden wedding anniverary is the main
-goal. How far and well it goes is way more important than how it starts. Yeah. sure. But _once upton a time_ still matters. And I am terrible lier. So, better start humanily beautiful, not algoritmacally beautiful, since the t_0. 
+#+begin_export html
+<figure>
+  <img src="/img/venus-and-mars.jpg" alt="Venus and Mars by Sandro Botticelli, c. 1483">
+  <figcaption>Sandro Botticelli, <a href="https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)"><em>Venus and Mars</em></a>, c. 1483.</figcaption>
+</figure>
+#+end_export
+
+It sucks. I know, I agree, the golden wedding anniversary is the main
+goal. How far and how well it goes is way more important than how it
+starts. Yeah, sure. But /once upon a time/ still matters. And I am a
+terrible liar. So, better start humanly beautiful, not algorithmically
+beautiful, since t_0.

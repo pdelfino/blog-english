@@ -3,49 +3,116 @@
 #+OPTIONS: toc:nil num:nil
 
 #+begin_export html
-<p class="subtitle">From 2021 to present</p>
+<p class="subtitle">From 2020 to present</p>
 #+end_export
 
-- Pontal de Maracaípe, Pernambuco, Brazil
-- Praia de Intermares (Macaco), João Pessoa/Cabedelo, Paraíba, Brazil
-- Praia do Madeiro, Pipa, Tibau do Sul, Rio Grande do Norte, Brazil
-- Praia de Tourinhos, Rio Grande do Norte, Brazil
-- Praia do Amor (dos Afogados), Pipa, Tibau do Sul, Rio Grande do Norte, Brazil
-- Secret, Cacimbinhas, Pipa, Tibau do Sul, Rio Grande do Norte, Brazil
-- Canoa Quebrada, Ceará, Brazil
-- Praia da Leste, Fortaleza, Ceará, Brazil
-- Praia de Porto das Dunas (Beach Park), Fortaleza/Aquiraz, Ceará, Brazil
-- Praia do Futuro, Fortaleza, Ceará, Brazil
-- Titanzinho, Fortaleza, Ceará, Brazil
-- Prainha, Fortaleza, Ceará, Brazil
-- Pontão do Iguape, Fortaleza/Iguape, Ceará, Brazil
-- Ronco, Paracuru, Ceará, Brazil
-- Curralzinho, Paracuru, Ceará, Brazil
-- Taíba, Ceará, Brazil
-- Lagoinha, Ceará, Brazil
-- Praia Central, Jericoacoara, Ceará, Brazil
-- Praia do Arrombado, Luís Correia, Piauí, Brazil
-- Praia do Caolho, São Luís, Maranhão, Brazil
-- Praia do Atalaia, Salinópolis, Pará, Brazil
-- Praia Mole, Florianópolis, Santa Catarina, Brazil
-- Praia do Matadeiro, Florianópolis, Santa Catarina, Brazil
-- Praia do Joaquina, Florianópolis, Santa Catarina, Brazil
-- Praia do Francês, Marechal Deodoro, Alagoas, Brazil
-- Praia de Jaguaribe, Salvador, Bahia, Brazil
-- Praia de Ipitanga, Lauro de Freitas, Bahia, Brazil
-- Praia de Piatã, Salvador, Bahia, Brazil
-- Praia do Buraquinho, Lauro de Freitas, Bahia, Brazil
-- Praia de Stella Maris, Salvador, Bahia, Brazil
-- Praia do Surf, Camaçari, Bahia, Brazil
-- Praia da Concha, Itacaré, Bahia, Brazil
-- Praia da Tiririca, Itacaré, Bahia, Brazil
-- Praia de Itacarezinho, Itacaré, Bahia, Brazil
-- Praia da Engenhoca, Itacaré, Bahia, Brazil
-- Praia de Jeribucaçu, Itacaré, Bahia, Brazil
-- Prainha, Itacaré, Bahia, Brazil
-- Praia da Cueira, Boipeba, Cairu, Bahia, Brazil
-- Praia do Sul, Ilhéus, Bahia, Brazil
-- Praia de Taipus de Fora, Península de Maraú, Bahia, Brazil
-- Praia de Cassange, Península de Maraú, Bahia, Brazil
-- Praia de Algodões, Península de Maraú, Bahia, Brazil
-- Praia de Serra Grande, Uruçuca, Bahia, Brazil
+* Brazil
+
+** Pernambuco
+
+- Pontal de Maracaípe
+
+** Paraíba
+
+- Praia de Intermares (Macaco), João Pessoa/Cabedelo
+
+** Rio Grande do Norte
+
+- Praia do Madeiro, Pipa, Tibau do Sul
+- Praia de Tourinhos
+- Praia do Amor (dos Afogados), Pipa, Tibau do Sul
+- Secret, Cacimbinhas, Pipa, Tibau do Sul
+
+** Ceará
+
+- Canoa Quebrada
+- Praia da Leste, Fortaleza
+- Praia de Porto das Dunas (Beach Park), Fortaleza/Aquiraz
+- Praia do Futuro, Fortaleza
+- Titanzinho, Fortaleza
+- Prainha, Fortaleza
+- Pontão do Iguape, Fortaleza/Iguape
+- Ronco, Paracuru
+- Curralzinho, Paracuru
+- Taíba
+- Lagoinha
+- Praia Central, Jericoacoara
+
+** Piauí
+
+- Praia do Arrombado, Luís Correia
+
+** Maranhão
+
+- Praia do Caolho, São Luís
+
+** Pará
+
+- Praia do Atalaia, Salinópolis
+
+** Alagoas
+
+- Praia do Francês, Marechal Deodoro
+
+** Bahia
+
+- Praia de Jaguaribe, Salvador
+- Praia de Ipitanga, Lauro de Freitas
+- Praia de Piatã, Salvador
+- Praia do Buraquinho, Lauro de Freitas
+- Praia de Stella Maris, Salvador
+- Praia do Surf, Camaçari
+- Praia da Concha, Itacaré
+- Praia da Tiririca, Itacaré
+- Praia de Itacarezinho, Itacaré
+- Praia da Engenhoca, Itacaré
+- Praia de Jeribucaçu, Itacaré
+- Prainha, Itacaré
+- Praia da Cueira, Boipeba, Cairu
+- Praia do Sul, Ilhéus
+- Praia de Taipus de Fora, Península de Maraú
+- Praia de Cassange, Península de Maraú
+- Praia de Algodões, Península de Maraú
+- Praia de Serra Grande, Uruçuca
+
+** Rio de Janeiro
+
+- Arpoador, Rio de Janeiro
+- Praia do Forte, Cabo Frio
+- Praia de Geribá, Búzios
+
+** São Paulo
+
+- Guarujá
+
+** Santa Catarina
+
+- Praia Mole, Florianópolis
+- Praia do Matadeiro, Florianópolis
+- Praia do Joaquina, Florianópolis
+- Santinho, Florianópolis
+- Campeche, Florianópolis
+- Novo Campeche, Florianópolis
+- Barra da Lagoa, Florianópolis
+- Moçambique, Florianópolis
+- Galheta, Florianópolis
+- Morro das Pedras, Florianópolis
+- Guarda do Embaú, Palhoça
+- Silveira, Garopaba
+- Ferrugem, Garopaba
+- Ouvidor, Garopaba
+- Rosa Norte, Imbituba
+- Rosa Sul, Imbituba
+- Vila, Imbituba
+- Arroio Corrente, Jaguaruna
+- Praia Brava, Itajaí
+
+* USA
+
+** California
+
+- Huntington Beach
+
+** New Jersey
+
+- Atlantic City

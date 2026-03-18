@@ -67,7 +67,7 @@ chronological order:
  
 ** Fitness & Wellness
 
-- A tailor-made health dashboard for my OCD (WIP)
+- A tailor-made dashboard for my OCD with fitness & health data (WIP)
 - Tracking all my calorie intake for 1 week (WIP)
 - Spinning is good for the heart (WIP)
 

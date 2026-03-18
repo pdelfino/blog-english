@@ -5,8 +5,6 @@
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="The original title was My first Collage. But the current one is way catchier." />
 #+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/collage-full.jpeg" />
 
-* I am not a womanizer, I promise
-
 #+begin_export html
 <p class="date">March 16, 2026</p>
 #+end_export

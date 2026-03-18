@@ -4,8 +4,6 @@
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="Neither Prince nor Littles. Life imitates art. Art imitates life." />
 #+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/my-first-painting.jpeg" />
 
-* My First Painting
-
 #+begin_export html
 <p class="date">August 14, 2025</p>
 #+end_export

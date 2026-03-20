@@ -32,11 +32,12 @@ chat about any of it, see the [[*Contact][contact section]] below.
 
 * Writing
 
-** Business Thesis
+** Business Thesis (WIP)
 
-- Meeting people is hard (WIP)
-- Events feel broken for me (WIP)
-- /Festa Fit/: The event I would like to go to (WIP)
+- /Le Day Club/
+  - Meeting people is hard
+  - Events feel broken for me
+  - The event I would like to go to
 
 ** Potpourri
 
@@ -110,8 +111,7 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
   retire from LinkedIn too)
 - [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
 - [[https://strava.app.link/Duc7qsoNo1b][Strava]] (my most serious social media account)
-- apparently, I /should have/ an Instagram for single life reasons. I
-  will keep rebelling for now
+- I dislike Instagram. But, my new project needs it: @ledayclub
 
 * Contact
 

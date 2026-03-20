@@ -37,22 +37,14 @@ Man, I really do have great friends!
 </div>
 #+end_export
 
-Now my room looks badass with both purchased and self-made decorations.
-I actually tried swapping my piece with a cutie who had also painted a
-wave. Her wave was formidable, just like her eyes. Unfortunately, she
-refused my offer to exchange our works.
-
-She says she is decisive. But I am persistent. As Vito Corleone said,
-"I will make her an offer she cannot refuse." Viva l'Italia.
+Now my room looks badass with both purchased and self-made
+decorations. I actually tried swapping my piece with a cutie who had
+also painted a wave. Her wave was formidable, just like her eyes.
+Unfortunately, she refused my offer. Not ~~an art trade~~ a match 😬
 
 #+begin_export html
 <figure>
   <img src="/img/don-corleone-cat.jpg" alt="Don Vito Corleone with his cat, from The Godfather (1972)">
-  <figcaption>Don Vito Corleone and the famous stray cat, <em>The Godfather</em> (1972).</figcaption>
+  <figcaption>Don Vito Corleone making an offer the famous stray cat cannot refuse <em>The Godfather</em> (1972).</figcaption>
 </figure>
 #+end_export
-
-UPDATE: As of March 10th, after proper conversation and more time
-together, we decided to build a friendship. And I'd better learn how
-to paint my own waves haha. I will keep the original for blogging
-history reasons. Good luck, G.!

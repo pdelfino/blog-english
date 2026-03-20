@@ -45,7 +45,7 @@ Yeah, the section name suggests right: I am learning French ;) Btw,
 /miscellaneous/ actually comes directly from Latin. Anyways, reverse
 chronological order:
 
-- /[[file:posts/you-look-like-joe-goldberg.org][You/... Look Like Joe Goldberg (Netflix)]]
+- [[file:posts/you-look-like-joe-goldberg.org][You... Look Like Joe Goldberg (NetFlix)]]
 - [[file:posts/dating-apps.org][Why don't you use dating apps?]]
 - First jewelry I ever bought (WIP)
 - [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]

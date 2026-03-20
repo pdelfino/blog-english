@@ -45,7 +45,6 @@ Yeah, the section name suggests right: I am learning French ;) Btw,
 chronological order:
 
 - [[file:posts/dating-apps.org][Why don't you use dating apps?]]
-- [[file:posts/i-am-not-a-womanizer.org][I am not a womanizer, I promise]]
 - First jewelry I ever bought (WIP)
 - [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]
 - [[file:posts/i-fell-in-love.org][I fell in love]]
@@ -80,7 +79,7 @@ chronological order:
 - Banzai, Bonsai! (WIP)
 
 ** Controversial
-
+- [[file:posts/i-am-not-a-womanizer.org][I am not a womanizer, I promise]]
 - One Year Without Porn: My Personal Experience and a Public Conversation (WIP)
     
 ** Technical

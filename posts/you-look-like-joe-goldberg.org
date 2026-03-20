@@ -1,0 +1,28 @@
+#+TITLE: You Look Like Joe Goldberg
+#+DATE: March 20, 2026
+#+HTML_HEAD_EXTRA: <meta property="og:title" content="You Look Like Joe Goldberg" />
+#+HTML_HEAD_EXTRA: <meta property="og:description" content="A conversation I keep having with strangers. No, I didn't kill my ex." />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/wanderer-above-the-sea-of-fog.jpg" />
+
+#+begin_export html
+<p class="date">March 20, 2026</p>
+#+end_export
+
+#+begin_export html
+<figure>
+  <img src="/img/wanderer-above-the-sea-of-fog.jpg" alt="Wanderer above the Sea of Fog by Caspar David Friedrich, c. 1818">
+  <figcaption>Caspar David Friedrich, <a href="https://en.wikipedia.org/wiki/Wanderer_above_the_Sea_of_Fog"><em>Wanderer above the Sea of Fog</em></a>, c. 1818.</figcaption>
+</figure>
+#+end_export
+
+- Stranger: You look like Joe Goldberg.
+- Me (if the stranger qualifies): /...silence and eye contact.../
+- Me: You think so?
+- Stranger: Yeah.
+- Me: Thanks. But I am better than him.
+- Stranger: Confident, /sigh/.
+- Me: I mean, not that I am better looking. But I didn't kill my ex.
+  Joe would definitely have done it.
+- Me: /Smile./
+
+P.S.: This is a joke. Chill...

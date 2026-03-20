@@ -6,6 +6,13 @@
 <p class="subtitle">From 2020 to present</p>
 #+end_export
 
+#+begin_export html
+<figure>
+  <img src="/img/the-ninth-wave.jpg" alt="The Ninth Wave by Ivan Aivazovsky, 1850">
+  <figcaption>Ivan Aivazovsky, <a href="https://en.wikipedia.org/wiki/The_Ninth_Wave"><em>The Ninth Wave</em></a>, 1850.</figcaption>
+</figure>
+#+end_export
+
 * Brazil
 
 ** Pernambuco

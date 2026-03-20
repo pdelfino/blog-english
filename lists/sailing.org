@@ -6,6 +6,13 @@
 <p class="subtitle">From 2020 to present</p>
 #+end_export
 
+#+begin_export html
+<figure>
+  <img src="/img/embarkation-queen-of-sheba.jpg" alt="The Embarkation of the Queen of Sheba by Claude Lorrain, 1648">
+  <figcaption>Claude Lorrain, <a href="https://en.wikipedia.org/wiki/Embarkation_of_the_Queen_of_Sheba"><em>The Embarkation of the Queen of Sheba</em></a>, 1648.</figcaption>
+</figure>
+#+end_export
+
 * Brazil
 
 ** Pernambuco

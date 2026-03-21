@@ -11,7 +11,7 @@
 
 I try to keep my identity [[http://www.paulgraham.com/identity.html][small]]. I dislike social media, but I love
 the social aspect of the web. I also enjoy building things and writing
-about them. Here you'll find stuff that interested me. If you want to
+about them. Here you'll find stuff that interests me. If you want to
 chat about any of it, see the [[*Contact][contact section]] below.
 
 #+begin_export html
@@ -41,8 +41,8 @@ chat about any of it, see the [[*Contact][contact section]] below.
 
 ** Potpourri
 
-Yeah, the section name suggests right: I am learning French ;) Btw,
-/miscellaneous/ actually comes directly from Latin. Anyways, reverse
+Yeah, as the section name suggests, I am learning French ;) Btw,
+/miscellaneous/ actually comes directly from Latin. Anyway, reverse
 chronological order:
 
 - [[file:posts/you-look-like-joe-goldberg.org][You... Look Like Joe Goldberg (NetFlix)]]
@@ -52,9 +52,16 @@ chronological order:
 - The day I met Warren Buffett in person (WIP)
 
 ** Art (?)
+
+*** Visual
 - [[file:posts/i-am-not-a-womanizer.org][I am not a womanizer, I promise]]
 - [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]
 - [[file:posts/my-first-painting.org][First painting]]
+
+*** +Performing+ Dance
+- I am back to shuffling (WIP)
+- Unbiased, Brazilian funk & forró are cool (WIP)
+- Sorry, hermanos... Salsa & Bachata kind of sucks, imho (WIP)
 
 ** Productivity
 - Vibe coding and aphoristic books (WIP)
@@ -63,24 +70,20 @@ chronological order:
 - Sleep hygiene hack & Wolverine (WIP)
 
 ** Cooking
-
 - /Sous Vide/ Way of Life (WIP)
 - $brew kombucha (WIP)
 - Pumpoff & Banoff (WIP)
 - Taramousse (WIP)
  
 ** Fitness & Wellness
-
 - A tailor-made dashboard for my OCD with fitness & health data (WIP)
 - Tracking all my calorie intake for 1 week (WIP)
 - Spinning is good for the heart (WIP)
 
 ** Finance
-
 - Coding a /Mister Money Mustache/ agent to review my expenses (WIP)
 
 ** Gardening
-
 - Banzai, Bonsai! (WIP)
 
 ** Controversial
@@ -100,12 +103,9 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
 - [[https://nyxt.atlas.engineer/article/record-input-field.org][No more filling out repetitive forms in Nyxt!]]
 
 *** Videos
-
 - [[https://www.youtube.com/watch?v=8fmWWgU_gk4][Nyxt annotations beat pen and paper, believe me]]
 
 * Pointers:
-
-
 - [[https://github.com/pdelfino][GitHub]]
 - [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google
   Scholar]] (retired from science in 2018, undefeated)
@@ -114,10 +114,9 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
   retire from LinkedIn too)
 - [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
 - [[https://strava.app.link/Duc7qsoNo1b][Strava]] (my most serious social media account)
-- I dislike Instagram. But, my new project needs it: @ledayclub
+- I dislike Instagram. But my new project needs it: @ledayclub
 
 * Contact
-
 #+begin_export html
 <form class="contact-form" action="https://formspree.io/f/mreaqvjn" method="POST">
   <p>Some of the best conversations I've had started with a stranger's email.</p>
@@ -130,7 +129,6 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
 #+end_export
 
 * Newsletter
-
 #+begin_export html
 <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/delfino"
       method="post">

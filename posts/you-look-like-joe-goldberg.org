@@ -14,15 +14,14 @@
 </figure>
 #+end_export
 
-- Stranger: You look like Joe Goldberg.
 - Me (if the stranger qualifies): /...silence and eye contact.../
 - Me: You think so?
-- Stranger: Yeah.
+- Stranger: Yeah...
 - Me: Thanks. But I am better than him.
-- Stranger: Confident, /sigh/.
+- Stranger: Confident, /sigh/...
 - Me: I mean, not that I am better looking. But I didn't kill my ex.
   Joe would definitely have done it.
-- Me: /Smile./
+- Me: /Wink & Smile/
 
 #+begin_export html
 <figure>

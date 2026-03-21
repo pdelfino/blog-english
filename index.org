@@ -48,10 +48,13 @@ chronological order:
 - [[file:posts/you-look-like-joe-goldberg.org][You... Look Like Joe Goldberg (NetFlix)]]
 - [[file:posts/dating-apps.org][Why don't you use dating apps?]]
 - First jewelry I ever bought (WIP)
-- [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]
 - [[file:posts/i-fell-in-love.org][I fell in love]]
-- [[file:posts/my-first-painting.org][First painting]]
 - The day I met Warren Buffett in person (WIP)
+
+** Art (?)
+- [[file:posts/i-am-not-a-womanizer.org][I am not a womanizer, I promise]]
+- [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]
+- [[file:posts/my-first-painting.org][First painting]]
 
 ** Productivity
 - Vibe coding and aphoristic books (WIP)
@@ -81,7 +84,6 @@ chronological order:
 - Banzai, Bonsai! (WIP)
 
 ** Controversial
-- [[file:posts/i-am-not-a-womanizer.org][I am not a womanizer, I promise]]
 - One Year Without Porn: My Personal Experience, Christianity,
   Manhood, and a Must-have Public Conversation (WIP)
     

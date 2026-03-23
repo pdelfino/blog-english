@@ -86,9 +86,9 @@ chronological order:
 ** Gardening
 - Banzai, Bonsai! (WIP)
 
-** Controversial
-- Porn free life: My Personal Experience, Christianity, Manhood, and a
-  Must-have Public Conversation (WIP)
+# ** Controversial
+# - Porn free life: My Personal Experience, Christianity, Manhood, and a
+#   Must-have Public Conversation (WIP)
     
 ** Technical
 

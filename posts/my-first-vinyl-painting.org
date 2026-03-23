@@ -39,12 +39,15 @@ Man, I really do have great friends!
 
 Now my room looks badass with both purchased and self-made
 decorations. I actually tried swapping my piece with a cutie who had
-also painted a wave. Her wave was formidable, just like her eyes.
-Unfortunately, she refused my offer. Not ~~an art trade~~ a match 😬
+also painted a wave. Her wave was formidable, just like her eyes. It
+would be the perfect home decoration for my bedroom. My Syrian grandpa
+and italian +mafia+ ancestors would have been proud of my negotiation
+skills. Unfortunately, she refused my offer. Not +an art trade+ a
+match 😬
 
 #+begin_export html
 <figure>
   <img src="/img/don-corleone-cat.jpg" alt="Don Vito Corleone with his cat, from The Godfather (1972)">
-  <figcaption>Don Vito Corleone making an offer the famous stray cat cannot refuse <em>The Godfather</em> (1972).</figcaption>
+  <figcaption>The famous stray cat making an offer for being pet that Don Vitor Corleon cannot refuse <em>The Godfather</em> (1972).</figcaption>
 </figure>
 #+end_export

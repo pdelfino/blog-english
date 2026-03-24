@@ -54,7 +54,7 @@ chronological order:
 ** Art (?)
 
 *** Visual
-- First hand-made (obscurous) keychain
+- First keychain (WIP)
 - Photography: Montreal Catholic churches are severely underrated (WIP)
 - [[file:posts/i-am-not-a-womanizer.org][I am not a womanizer, I promise]]
 - [[file:posts/my-first-vinyl-painting.org][First vinyl painting]]

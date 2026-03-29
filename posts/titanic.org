@@ -8,22 +8,9 @@
 <p class="date">March 27, 2026</p>
 #+end_export
 
-I have been doing a lot of events. I usually find cool stuff on
-[[https://www.meetup.com/][Meetup]], [[https://www.eventbrite.com/][Eventbrite]], [[https://classpass.com/][ClassPass]], and [[https://lu.ma/][Luma]]. I saw a cool one on *building
-a terrarium*.
-
-Initially, I was not familiar with the term. After googling it, I
-thought I would make something impressive like:
-
-#+begin_export html
-<figure>
-  <img src="/img/terrarium.jpg" alt="A self-sustaining terrarium in a glass ball">
-</figure>
-#+end_export
-
-Well, my craft ended up being way simpler haha. But it is still cool.
-This is my first plant, a succulent. For me, it is an /allegory/ of
-care, resilience, juiciness, and growth.
+I went to a terrarium-building event and came back with my first
+plant, a succulent. For me, it is an /allegory/ of care, resilience,
+juiciness, and growth.
 
 #+begin_export html
 <figure>
@@ -31,18 +18,14 @@ care, resilience, juiciness, and growth.
 </figure>
 #+end_export
 
-I like to keep it in my field of vision. It feels peaceful. It also
-needs some care and maintenance, but very minimal. Succulents are very
-resilient (if I end up forgetting to water it).
+I like to keep it in my field of vision. It feels peaceful. It needs
+very minimal care, and succulents are resilient if I forget to water
+it.
 
-I usually give nicknames a lot. This has become even more extreme as I
-live with Lucas, who has been my friend for a long time and also has
-this habit.
+I am baptizing this plant as /Titanic/... Why?
 
-Thus, I am baptizing this plant as /Titanic/... Why?
-
-Well, educational reasons and risk management, tbh. The main reason
-for "pet plants" to die is too much water. Lucas is a serial killer,
-btw. Since I don't want to be like him, and I already get people
-saying that I [[file:you-look-like-joe-goldberg.org][look like Joe Goldberg]], calling it Titanic is a good
-ironic name /for me/.
+The main reason for "pet plants" to die is too much water. My friend
+Lucas who is also my roommate is a serial killer of plants, btw. Since
+I don't want to be like him, and I already get people saying that I
+[[file:you-look-like-joe-goldberg.org][look like Joe Goldberg]], calling it Titanic is a good ironic name /for
+me/.

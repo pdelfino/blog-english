@@ -36,6 +36,18 @@
 (add-to-list 'org-export-filter-final-output-functions
              #'my/append-site-name-to-title)
 
+;; Inject GoatCounter analytics script before </body> on every page.
+(defun my/inject-goatcounter (output _backend _info)
+  (replace-regexp-in-string
+   "</body>"
+   "<script data-goatcounter=\"https://pedrodelfino.goatcounter.com/count\"
+        async src=\"//gc.zgo.at/count.js\"></script>
+</body>"
+   output))
+
+(add-to-list 'org-export-filter-final-output-functions
+             #'my/inject-goatcounter)
+
 ;; Define the publishing project
 (setq org-publish-project-alist
       (list

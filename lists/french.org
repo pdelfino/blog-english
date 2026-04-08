@@ -1,0 +1,338 @@
+#+TITLE: French Survival Kit
+#+LANGUAGE: en
+#+OPTIONS: toc:2 num:nil
+
+#+begin_export html
+<p class="subtitle">Cheat sheet for Brazilian Portuguese speakers</p>
+#+end_export
+
+#+begin_export html
+<figure>
+  <img src="/img/liberty-leading-the-people.jpg" alt="Liberty Leading the People by Eugène Delacroix, 1830">
+  <figcaption>Eugène Delacroix, <a href="https://en.wikipedia.org/wiki/Liberty_Leading_the_People"><em>Liberty Leading the People</em></a>, 1830.</figcaption>
+</figure>
+#+end_export
+
+This is my personal French survival cheat sheet. It helped me a lot
+when I moved to Montreal. The "pronunciation" column is not real
+phonetics --- it's a hack: how a Brazilian would read it out loud to
+sound approximately correct in French. Nasalized vowels (~ã~, ~ẽ~,
+~õ~) are marked explicitly; the rest you can read with your normal
+Portuguese mouth.
+
+*Legend:* =FR= = French | =PT= = Portuguese translation | =FALA= = read this in Portuguese and you'll be close enough.
+
+*Tips before you start:*
+- French =r= is guttural, like the =R= in /Rio/ or /rato/ in most of Brazil.
+- French =u= (as in /tu/) has no equivalent in Portuguese. Round your lips like you're going to say "u" but try to say "i". When in doubt, say "ü".
+- The =on= / =om= sound is nasal like "õ" but rounder.
+- The =an= / =en= sound is nasal like "ã".
+- Final consonants are usually silent, except =c=, =r=, =f=, =l= (think: *CaReFuL*).
+- Liaison: when a word ends in a silent consonant and the next starts with a vowel, you link them.
+
+* Basics
+
+| FR | PT | FALA |
+|----+----+------|
+| Bonjour | Bom dia / Olá | Bõjúr |
+| Bonsoir | Boa noite (chegando) | Bõsuár |
+| Bonne nuit | Boa noite (despedida) | Bón nüí |
+| Salut | Oi / Tchau (informal) | Salü |
+| Au revoir | Tchau | Ô rêvuár |
+| Merci | Obrigado(a) | Mérci |
+| Merci beaucoup | Muito obrigado(a) | Mérci bokú |
+| De rien | De nada | Dê riẽ |
+| S'il vous plaît | Por favor (formal) | Cilvuplé |
+| S'il te plaît | Por favor (informal) | Ciltêplé |
+| Oui | Sim | Uí |
+| Non | Não | Nõ |
+| Excusez-moi | Com licença / Desculpe | Ekskuzê-muá |
+| Pardon | Perdão | Pardõ |
+| Je suis désolé(e) | Sinto muito | Jê sui dezolê |
+| Comment ça va ? | Como vai? | Comã sa vá? |
+| Ça va bien, merci | Vou bem, obrigado(a) | Sa vá biẽ, mérci |
+| Et toi ? | E tu? (informal) | Ê tuá? |
+| Et vous ? | E o senhor / a senhora? | Ê vú? |
+| Comment tu t'appelles ? | Qual é o seu nome? (informal) | Comã tü tapél? |
+| Je m'appelle... | Meu nome é... | Jê mapél... |
+| Enchanté(e) | Prazer | Ãchãtê |
+| Je ne comprends pas | Não entendo | Jê nê comprã pá |
+| Vous pouvez répéter ? | Pode repetir? | Vu puvê repêtê? |
+| Parlez-vous anglais ? | Você fala inglês? | Parlê-vu ãglé? |
+| Je parle un peu français | Falo um pouco de francês | Jê parl ã pö frãcé |
+| Oui, un petit peu | Sim, um pouquinho | Uí, ã pêti pö |
+| Bonne journée | Bom dia (despedida) | Bón jurnê |
+| Bonne soirée | Boa noite (despedida amigável) | Bón suaré |
+| À bientôt | Até logo | A biẽtô |
+| À demain | Até amanhã | A dêmẽ |
+| À plus tard | Até mais | A plü tar |
+| Bienvenu(e) | Bem-vindo(a) | Biẽvênü |
+
+* Numbers
+
+| FR | PT | FALA |
+|----+----+------|
+| Zéro | Zero | Zerô |
+| Un | Um | Ã |
+| Deux | Dois | Dö |
+| Trois | Três | Truá |
+| Quatre | Quatro | Katr |
+| Cinq | Cinco | Cẽk |
+| Six | Seis | Cis |
+| Sept | Sete | Cét |
+| Huit | Oito | Üít |
+| Neuf | Nove | Nöf |
+| Dix | Dez | Dis |
+| Onze | Onze | Õz |
+| Douze | Doze | Dúz |
+| Treize | Treze | Tréz |
+| Quatorze | Quatorze | Katórz |
+| Quinze | Quinze | Kẽz |
+| Seize | Dezesseis | Séz |
+| Vingt | Vinte | Vẽ |
+| Trente | Trinta | Trãt |
+| Quarante | Quarenta | Karãt |
+| Cinquante | Cinquenta | Cẽkãt |
+| Soixante | Sessenta | Suassãt |
+| Soixante-dix | Setenta | Suassãt-dis |
+| Quatre-vingts | Oitenta | Katrê-vẽ |
+| Quatre-vingt-dix | Noventa | Katrê-vẽ-dis |
+| Cent | Cem | Cã |
+| Mille | Mil | Mil |
+
+* Getting Around
+
+| FR | PT | FALA |
+|----+----+------|
+| Où est... ? | Onde fica...? | Ú é...? |
+| Où sont les toilettes ? | Onde é o banheiro? | Ú sõ lê tualét? |
+| Je cherche... | Estou procurando... | Jê chérch... |
+| À gauche | À esquerda | A gôch |
+| À droite | À direita | A druát |
+| Tout droit | Em frente / Reto | Tú druá |
+| Ici | Aqui | Icí |
+| Là-bas | Ali / Lá | Labá |
+| Près d'ici | Perto daqui | Pré dicí |
+| Loin d'ici | Longe daqui | Luẽ dicí |
+| C'est loin ? | É longe? | Cé luẽ? |
+| La rue | A rua | La rü |
+| Le coin | A esquina | Lê kuẽ |
+| Le carrefour | O cruzamento | Lê carfúr |
+| Le pont | A ponte | Lê põ |
+| Le métro | O metrô | Lê metrô |
+| L'arrêt de bus | O ponto de ônibus | Laré dê büs |
+| La gare | A estação (trem) | La gár |
+| L'aéroport | O aeroporto | Laêropór |
+| Un taxi | Um táxi | Ã takci |
+| Je suis perdu(e) | Estou perdido(a) | Jê sui perdü |
+| Pouvez-vous m'aider ? | Pode me ajudar? | Puvê-vu médê? |
+| C'est à combien de minutes ? | Quantos minutos daqui? | Cétá cõbiẽ dê minüt? |
+| Je voudrais aller à... | Eu gostaria de ir para... | Jê vudré alê a... |
+| Un aller simple | Só ida | Ã nalê cẽpl |
+| Un aller-retour | Ida e volta | Ã nalê-rêtúr |
+
+* At a Restaurant / Café
+
+| FR | PT | FALA |
+|----+----+------|
+| Une table pour deux, s'il vous plaît | Mesa para dois, por favor | Ün tabl pur dö, cilvuplé |
+| Le menu / La carte | O cardápio | Lê menü / La cart |
+| L'addition, s'il vous plaît | A conta, por favor | Ladicõ, cilvuplé |
+| Je voudrais... | Eu gostaria de... | Jê vudré... |
+| Je vais prendre... | Vou querer... | Jê vé prãdr... |
+| Un café | Um café | Ã kafê |
+| Un café au lait | Um café com leite | Ã kafê ô lé |
+| Un thé | Um chá | Ã tê |
+| De l'eau | Água | Dê lô |
+| Une bière | Uma cerveja | Ün biér |
+| Du vin rouge | Vinho tinto | Dü vẽ rúj |
+| Du vin blanc | Vinho branco | Dü vẽ blã |
+| Un jus d'orange | Um suco de laranja | Ã jü dorãj |
+| Le plat du jour | O prato do dia | Lê plá dü júr |
+| L'entrée | A entrada | Lãtré |
+| Le plat principal | O prato principal | Lê plá prẽcipal |
+| Le dessert | A sobremesa | Lê décér |
+| Du pain | Pão | Dü pẽ |
+| Du beurre | Manteiga | Dü bör |
+| Du fromage | Queijo | Dü fromáj |
+| Le poulet | Frango | Lê pulé |
+| Le boeuf | Carne bovina | Lê böf |
+| Le poisson | Peixe | Lê puassõ |
+| Les légumes | Legumes / Verduras | Lê legüm |
+| La salade | Salada | La salád |
+| C'est délicieux | Está delicioso | Cé deliciö |
+| Je suis végétarien(ne) | Sou vegetariano(a) | Jê sui vejetariẽ |
+| Je suis allergique à... | Sou alérgico(a) a... | Jê sui alérjík a... |
+| Sans gluten | Sem glúten | Cã glütén |
+| L'addition est incluse ? | A taxa de serviço está inclusa? | Ladicõ é ẽklüz? |
+| C'est combien ? | Quanto custa? | Cé cõbiẽ? |
+| Je peux payer par carte ? | Posso pagar com cartão? | Jê pö pêiê par cart? |
+
+* Shopping
+
+| FR | PT | FALA |
+|----+----+------|
+| Combien ça coûte ? | Quanto custa? | Cõbiẽ sa kút? |
+| C'est trop cher | É muito caro | Cé trô chér |
+| Vous avez... ? | Vocês têm...? | Vu zavê...? |
+| Je cherche... | Estou procurando... | Jê chérch... |
+| Je regarde, merci | Só estou olhando, obrigado | Jê rêgárd, mérci |
+| Quelle taille ? | Qual tamanho? | Kél tái? |
+| Plus grand | Maior | Plü grã |
+| Plus petit | Menor | Plü pêtí |
+| La couleur | A cor | La kulör |
+| Rouge | Vermelho | Rúj |
+| Bleu | Azul | Blö |
+| Vert | Verde | Vér |
+| Noir | Preto | Nuár |
+| Blanc | Branco | Blã |
+| Jaune | Amarelo | Jôn |
+| Je le prends | Vou levar | Jê lê prã |
+| Un sac, s'il vous plaît | Uma sacola, por favor | Ã sak, cilvuplé |
+| Où est la caisse ? | Onde é o caixa? | Ú é la kés? |
+| Soldes | Promoção / Liquidação | Sóld |
+| Ouvert | Aberto | Uvér |
+| Fermé | Fechado | Férmê |
+
+* Accommodation
+
+| FR | PT | FALA |
+|----+----+------|
+| J'ai une réservation | Tenho uma reserva | Jé ün rezérvassiõ |
+| Une chambre pour une personne | Um quarto individual | Ün chãbr pur ün persón |
+| Une chambre pour deux personnes | Um quarto de casal | Ün chãbr pur dö persón |
+| Pour combien de nuits ? | Por quantas noites? | Pur cõbiẽ dê nüí? |
+| Le petit-déjeuner est inclus ? | O café da manhã está incluso? | Lê pêti dejönê é ẽklü? |
+| Le wifi | O wifi | Lê uifí |
+| Quel est le mot de passe ? | Qual é a senha? | Kél é lê mô dê pás? |
+| La clé | A chave | La klê |
+| La climatisation | O ar condicionado | La klimatizacõ |
+| Le chauffage | O aquecimento | Lê chofáj |
+| Quelle heure est le check-out ? | Que horas é o check-out? | Kél ör é lê check-out? |
+| L'ascenseur | O elevador | Lacẽsör |
+| L'étage | O andar | Letáj |
+| Rez-de-chaussée | Térreo | Ré-dê-chocê |
+
+* Emergencies
+
+| FR | PT | FALA |
+|----+----+------|
+| Au secours ! | Socorro! | Ô skúr! |
+| Aidez-moi ! | Me ajudem! | Edê-muá! |
+| Appelez la police ! | Chamem a polícia! | Aplê la polís! |
+| Appelez une ambulance ! | Chamem uma ambulância! | Aplê ün ãbülãs! |
+| J'ai besoin d'un médecin | Preciso de um médico | Jé bêzuẽ dã médcẽ |
+| Je suis malade | Estou doente | Jê sui malád |
+| J'ai mal à la tête | Estou com dor de cabeça | Jé mal a la tét |
+| J'ai mal au ventre | Estou com dor de barriga | Jé mal ô vãtr |
+| J'ai de la fièvre | Estou com febre | Jé dê la fiévr |
+| La pharmacie | A farmácia | La farmací |
+| L'hôpital | O hospital | Lopitál |
+| Les urgences | A emergência | Lê zürjãs |
+| C'est une urgence | É uma emergência | Cét ün ürjãs |
+| J'ai perdu mon passeport | Perdi meu passaporte | Jé perdü mõ paspór |
+| On m'a volé | Me roubaram | Õ má volê |
+| Au feu ! | Fogo! | Ô fö! |
+| Je suis blessé(e) | Estou machucado(a) | Jê sui blécê |
+| Où est l'ambassade du Brésil ? | Onde é a embaixada do Brasil? | Ú é lãbasád dü Brezíl? |
+
+* Time & Days
+
+| FR | PT | FALA |
+|----+----+------|
+| Quelle heure est-il ? | Que horas são? | Kél ör étil? |
+| Il est... heures | São... horas | Il é... ör |
+| Maintenant | Agora | Mẽtnã |
+| Aujourd'hui | Hoje | Ojurdüí |
+| Demain | Amanhã | Dêmẽ |
+| Hier | Ontem | Iér |
+| Le matin | De manhã | Lê matẽ |
+| L'après-midi | De tarde | Lapré-midí |
+| Le soir | De noite | Lê suár |
+| Lundi | Segunda-feira | Lãdí |
+| Mardi | Terça-feira | Mardí |
+| Mercredi | Quarta-feira | Mérkrêdí |
+| Jeudi | Quinta-feira | Jödí |
+| Vendredi | Sexta-feira | Vãdrêdí |
+| Samedi | Sábado | Camdí |
+| Dimanche | Domingo | Dimãch |
+
+* Weather (Montreal life, right?)
+
+| FR | PT | FALA |
+|----+----+------|
+| Quel temps fait-il ? | Como está o tempo? | Kél tã fétil? |
+| Il fait froid | Está frio | Il fé fruá |
+| Il fait chaud | Está quente | Il fé chô |
+| Il pleut | Está chovendo | Il plö |
+| Il neige | Está nevando | Il néj |
+| Le soleil | O sol | Lê soléi |
+| Le vent | O vento | Lê vã |
+| Il fait beau | O tempo está bom | Il fé bô |
+| Il fait moins vingt | Está menos vinte (graus) | Il fé muẽ vẽ |
+| C'est glacial | Está congelando | Cé glaciál |
+
+* Small Talk & Social
+
+| FR | PT | FALA |
+|----+----+------|
+| Tu viens d'où ? | De onde você é? | Tü viẽ dú? |
+| Je viens du Brésil | Eu sou do Brasil | Jê viẽ dü Brezíl |
+| Qu'est-ce que tu fais dans la vie ? | O que você faz da vida? | Késkê tü fé dã la ví? |
+| Je suis... (profession) | Eu sou... | Jê sui... |
+| J'habite à Montréal | Eu moro em Montreal | Jabít a Mõreál |
+| Ça fait combien de temps que tu es ici ? | Há quanto tempo você está aqui? | Sa fé cõbiẽ dê tã kê tü é icí? |
+| Tu parles bien français | Você fala bem francês | Tü parl biẽ frãcé |
+| J'apprends le français | Estou aprendendo francês | Japrã lê frãcé |
+| Tu es libre ce soir ? | Você está livre hoje à noite? | Tü é libr cê suár? |
+| On prend un verre ? | Vamos tomar uma? | Õ prã ã vér? |
+| C'est super | É muito bom | Cé süpér |
+| C'est génial | É genial / Incrível | Cé jeniál |
+| C'est nul | É uma porcaria | Cé nül |
+| Je m'en fous | Não ligo / Tanto faz | Jê mã fú |
+| Je suis fatigué(e) | Estou cansado(a) | Jê sui fatigê |
+| J'ai faim | Estou com fome | Jé fẽ |
+| J'ai soif | Estou com sede | Jé suáf |
+| On y va ? | Vamos? | Õ i vá? |
+| C'est la vie | É a vida | Cé la ví |
+| C'est pas grave | Não tem problema | Cé pá gráv |
+| Pas de souci | Sem problema | Pá dê sucí |
+| Ça marche | Combinado / Beleza | Sa march |
+| T'inquiète pas | Não se preocupe | Tẽkiét pá |
+| Félicitations | Parabéns | Felicitacõ |
+| Bon anniversaire | Feliz aniversário | Bón anivércér |
+| Santé ! | Saúde! (brinde) | Cãtê! |
+| Tchin-tchin ! | Tim-tim! | Tchẽ-tchẽ! |
+| Bonne chance | Boa sorte | Bón chãs |
+| Bon voyage | Boa viagem | Bõ vuaiáj |
+| Je t'aime | Eu te amo | Jê tém |
+
+* Quebec French Bonus
+
+Some expressions that are specific to Quebec (since you're probably
+in Montreal if you're reading this):
+
+| FR (Québec) | PT | FALA |
+|-------------+----+------|
+| Bienvenue | De nada (em vez de "de rien") | Biẽvênü |
+| Char | Carro | Chár |
+| Dépanneur (dep) | Loja de conveniência | Depanör |
+| Blonde | Namorada | Blõd |
+| Chum | Namorado | Tchöm |
+| Pogner | Pegar / Conseguir | Poniê |
+| C'est correct | Tá tudo certo | Cé corék |
+| Pantoute | De jeito nenhum | Pãtút |
+| Icitte | Aqui | Icít |
+| Tu es-tu correct ? | Você tá bem? | Tü é tü corék? |
+| Il fait frette | Está muito frio | Il fé frét |
+| Magasiner | Fazer compras | Magazinê |
+| Avoir du fun | Se divertir | Avuár dü fönn |
+| C'est écoeurant | É incrível (positivo em QC!) | Cé ekörã |
+| Tabarnak ! | Expressão forte (= p***a!) | Tabarnak! |
+| Câlice ! | Expressão forte (= c*****o!) | Kális! |
+| C'est plate | É chato | Cé plat |
+| J'suis tanné(e) | Tô de saco cheio | Chui tanê |
+| Jaser | Bater papo | Jazê |
+| Barrer la porte | Trancar a porta | Barê la port |
+
+/Bonne chance et bon courage, mon ami !/ 🇫🇷🇧🇷

@@ -16,6 +16,62 @@ jobs:
       - name: Build site
         run: ./build.sh
 
+      - name: Setup CloudFront URL rewrite function
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+        run: |
+          FUNC_NAME="pedrodelfino-url-rewrite"
+          DIST_ID="${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}"
+
+          # Create or update the function
+          if aws cloudfront describe-function --name "$FUNC_NAME" > /dev/null 2>&1; then
+            ETAG=$(aws cloudfront describe-function --name "$FUNC_NAME" --query 'ETag' --output text)
+            aws cloudfront update-function \
+              --name "$FUNC_NAME" \
+              --function-config '{"Comment":"Append index.html to clean URLs","Runtime":"cloudfront-js-2.0"}' \
+              --function-code fileb://cloudfront/url-rewrite.js \
+              --if-match "$ETAG"
+          else
+            aws cloudfront create-function \
+              --name "$FUNC_NAME" \
+              --function-config '{"Comment":"Append index.html to clean URLs","Runtime":"cloudfront-js-2.0"}' \
+              --function-code fileb://cloudfront/url-rewrite.js
+          fi
+
+          # Publish (DEVELOPMENT → LIVE)
+          ETAG=$(aws cloudfront describe-function --name "$FUNC_NAME" --query 'ETag' --output text)
+          aws cloudfront publish-function --name "$FUNC_NAME" --if-match "$ETAG"
+
+          # Associate with distribution if not already
+          FUNC_ARN=$(aws cloudfront describe-function --name "$FUNC_NAME" --stage LIVE \
+            --query 'FunctionSummary.FunctionMetadata.FunctionARN' --output text)
+
+          aws cloudfront get-distribution-config --id "$DIST_ID" > /tmp/dist.json
+          DIST_ETAG=$(jq -r '.ETag' /tmp/dist.json)
+
+          ALREADY=$(jq -r --arg arn "$FUNC_ARN" \
+            '.DistributionConfig.DefaultCacheBehavior.FunctionAssociations.Items // [] | map(select(.FunctionARN == $arn)) | length' \
+            /tmp/dist.json)
+
+          if [ "$ALREADY" = "0" ]; then
+            jq --arg arn "$FUNC_ARN" '
+              .DistributionConfig |
+              (.DefaultCacheBehavior.FunctionAssociations.Items // []) as $items |
+              ($items + [{"FunctionARN": $arn, "EventType": "viewer-request"}]) as $new |
+              .DefaultCacheBehavior.FunctionAssociations = {"Quantity": ($new | length), "Items": $new}
+            ' /tmp/dist.json > /tmp/dist-config.json
+
+            aws cloudfront update-distribution \
+              --id "$DIST_ID" \
+              --distribution-config file:///tmp/dist-config.json \
+              --if-match "$DIST_ETAG"
+            echo "Function associated with distribution."
+          else
+            echo "Function already associated."
+          fi
+
       - name: Sync to S3
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}

@@ -2,7 +2,7 @@
 #+DATE: March 27, 2026
 #+HTML_HEAD_EXTRA: <meta property="og:title" content="Titanic" />
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="A succulent named Titanic. An allegory of care, resilience, juiciness, and growth." />
-#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/titanic.jpeg" />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/og/titanic.jpg" />
 
 #+begin_export html
 <p class="date">March 27, 2026</p>

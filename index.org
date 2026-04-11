@@ -117,7 +117,7 @@ Articles I wrote for the [[https://nyxt.atlas.engineer/][Nyxt Browser]] project:
   retire from LinkedIn too)
 - [[https://www.pdelfino.com.br][pdelfino.com.br]] (blog in Portuguese)
 - [[https://strava.app.link/Duc7qsoNo1b][Strava]] (my most serious social media account)
-- I dislike Instagram. But my new project needs it: @ledayclub
+- I dislike Instagram. But my new project needs it: [[https://www.instagram.com/ledayclub/][@ledayclub]]
 
 * Contact
 #+begin_export html

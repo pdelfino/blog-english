@@ -8,8 +8,8 @@
 <p class="subtitle">this page does not exist</p>
 
 <figure>
-  <img src="/img/tower-of-babel.jpg" alt="The Tower of Babel by Pieter Bruegel the Elder, 1563">
-  <figcaption>Pieter Bruegel the Elder, <a href="https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)"><em>The Tower of Babel</em></a>, 1563. A /(WIP)/ that never transcended the scaffolding.</figcaption>
+  <img src="/img/the-geographer.jpg" alt="The Geographer by Johannes Vermeer, 1669">
+  <figcaption>Johannes Vermeer, <a href="https://en.wikipedia.org/wiki/The_Geographer"><em>The Geographer</em></a>, 1669. Still looking for the page you asked for.</figcaption>
 </figure>
 #+end_export
 

@@ -3,7 +3,7 @@
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD_EXTRA: <meta property="og:title" content="Places I've Sailed (Kite Surfing)" />
 #+HTML_HEAD_EXTRA: <meta property="og:description" content="A running log of every kite surfing spot I've ridden, from 2020 to present." />
-#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/og/embarkation-queen-of-sheba.jpg" />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://pedrodelfino.com/img/breezing-up.jpg" />
 
 #+begin_export html
 <p class="subtitle">From 2020 to present</p>
@@ -11,8 +11,8 @@
 
 #+begin_export html
 <figure>
-  <img src="/img/embarkation-queen-of-sheba.jpg" alt="The Embarkation of the Queen of Sheba by Claude Lorrain, 1648">
-  <figcaption>Claude Lorrain, <a href="https://en.wikipedia.org/wiki/Embarkation_of_the_Queen_of_Sheba"><em>The Embarkation of the Queen of Sheba</em></a>, 1648.</figcaption>
+  <img src="/img/breezing-up.jpg" alt="Breezing Up (A Fair Wind) by Winslow Homer, 1876">
+  <figcaption>Winslow Homer, <a href="https://en.wikipedia.org/wiki/Breezing_Up_(A_Fair_Wind)"><em>Breezing Up (A Fair Wind)</em></a>, 1876.</figcaption>
 </figure>
 #+end_export
 

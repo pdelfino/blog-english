@@ -18,8 +18,8 @@ for f in posts/*.html lists/*.html; do
   perl -i -pe 's{href="([^/":#][^/":#]*/)"}{href="../$1"}g' "$f"
 done
 
-# 3. Rename every .html except root index.html → dir/index.html.
-find . -name '*.html' ! -path './index.html' | while IFS= read -r f; do
+# 3. Rename every .html except root index.html and 404.html → dir/index.html.
+find . -name '*.html' ! -path './index.html' ! -path './404.html' | while IFS= read -r f; do
   dir="${f%.html}"
   mkdir -p "$dir"
   mv "$f" "$dir/index.html"

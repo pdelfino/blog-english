@@ -1,0 +1,21 @@
+#+TITLE: 404
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+#+HTML_HEAD_EXTRA: <meta name="robots" content="noindex" />
+
+#+begin_export html
+<h1 class="title">404</h1>
+<p class="subtitle">this page does not exist</p>
+#+end_export
+
+Theories, in descending order of likelihood:
+
+1. I moved the page and forgot to leave a forwarding address.
+2. It was a /(WIP)/ on the homepage that never transcended the parentheses.
+3. You mistyped the URL. Happens to the best of us.
+4. A [[https://en.wikipedia.org/wiki/Soft_error][cosmic ray]] flipped a bit somewhere between the server and your screen. Improbable, but non-zero.
+5. This is the draft I almost published and deleted out of embarrassment. A rare victory for Future Me.
+
+If you want to abandon this dead end, the [[/][homepage]] has content that actually exists — some of it even finished.
+
+/PS: if you were looking for something specific, there's a contact form on the homepage. Email me and I'll either send you the right link or confess I never wrote it./
